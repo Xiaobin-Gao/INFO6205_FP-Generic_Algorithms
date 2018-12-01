@@ -8,23 +8,23 @@ public class Init {
 	private Point[][] population; // all individuals
 	private int range; // range of a single DNA
 	
-	public Init(int[] target, int size, int range) {
+	public Init(Point[] target, int size, int range) {
 		this.target = target;
 		sizeOfPop = size;
 		sizeOfChro = target.length / 4;
 		this.range = range;
 	}
 	
-	public int[] getTarget() {
+	public Point[] getTarget() {
 		return target;
 	}
 	
-	public int[][] producePop() {
-		population = new int[sizeOfPop][sizeOfChro * 4];
+	public Point[][] producePop() {
+		population = new Point[sizeOfPop][sizeOfChro * 4];
 		for (int i = 0; i < sizeOfPop; i++) {
 			for (int j = 0; j < sizeOfChro; j++) {
 				int random = (int)Math.random();
-				population[i][j] = range * random;
+				//population[i][j] = range * random;
 			}
 		}
 		return population;

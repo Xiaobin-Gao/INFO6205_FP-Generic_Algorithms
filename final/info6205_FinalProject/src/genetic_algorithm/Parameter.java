@@ -6,7 +6,7 @@ public class Parameter {
 	public int default_width = 200;
 	public int height_Height = 200;
 	public BufferedImage targetIm;
-	public Point[][] target;
+	public int[][] target;
 	
 	public Parameter(String path) {
 	
