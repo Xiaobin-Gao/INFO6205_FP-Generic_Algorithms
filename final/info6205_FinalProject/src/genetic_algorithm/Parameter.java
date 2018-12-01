@@ -12,7 +12,8 @@ public class Parameter {
 		this.width = 200;
 		this.height = 200;
 		this.target = target;
-		
+	//
+		//
 	}
 	
 	
