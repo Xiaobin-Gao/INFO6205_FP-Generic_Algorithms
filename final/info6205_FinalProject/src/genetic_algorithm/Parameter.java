@@ -3,17 +3,15 @@ package genetic_algorithm;
 import java.awt.image.BufferedImage;
 public class Parameter {
 	
-	public int width;
-	public int height;
-	public BufferedImage target;
+	public int default_width = 200;
+	public int height_Height = 200;
+	public BufferedImage targetIm;
+	public Point[][] target;
 	
-	public Parameter(int width, int height, BufferedImage target) {
-		
-		this.width = 200;
-		this.height = 200;
-		this.target = target;
-	//
-		////
+	public Parameter(String path) {
+	
+		this.targetIm = targetIm;
+		target = new int[default_width][height_Height];
 	}
 	
 	

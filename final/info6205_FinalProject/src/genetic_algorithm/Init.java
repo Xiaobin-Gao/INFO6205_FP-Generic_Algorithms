@@ -2,10 +2,10 @@ package genetic_algorithm;
 
 public class Init {
 	
-	private int[] target; // target individual
+	private Point[] target; // target individual
 	private int sizeOfPop; // size of population
 	private int sizeOfChro; // size of chromosomes, a single chromosome consists of 4 DNAs
-	private int[][] population; // all individuals
+	private Point[][] population; // all individuals
 	private int range; // range of a single DNA
 	
 	public Init(int[] target, int size, int range) {
