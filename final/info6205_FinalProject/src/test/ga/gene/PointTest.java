@@ -29,11 +29,11 @@ class PointTest {
 	
 	@Test
 	public void testToByteAndToPoint2() {
-		Point p1 = new Point(10, 78);
-		byte[] b1 = p1.toByte();
-		Point result = Point.toPoint(b1);
-		assertEquals(p1.getX(), result.getX());
-		assertEquals(p1.getY(), result.getY());
+		Point p2 = new Point(10, 78);
+		byte[] b2 = p2.toByte();
+		Point result = Point.toPoint(b2);
+		assertEquals(p2.getX(), result.getX());
+		assertEquals(p2.getY(), result.getY());
 	}
 	
 
