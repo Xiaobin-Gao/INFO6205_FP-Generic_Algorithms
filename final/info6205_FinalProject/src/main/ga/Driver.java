@@ -3,9 +3,9 @@ package ga;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 
-import ga.dao.*;
 import ga.graph.*;
 import ga.alg.*;
+import ga.gene.*;
 
 
 public class Driver {

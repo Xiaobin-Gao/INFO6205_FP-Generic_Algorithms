@@ -2,8 +2,8 @@ package ga.alg;
 
 import java.util.Random;
 
-import ga.dao.Generation;
-import ga.dao.Point;
+import ga.gene.Generation;
+import ga.gene.Point;
 
 public class Init {
 

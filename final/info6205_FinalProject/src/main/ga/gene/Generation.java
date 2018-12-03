@@ -1,8 +1,6 @@
-package ga.dao;
+package ga.gene;
 
 import java.util.Arrays;
-
-import ga.alg.Rank;
 
 public class Generation {
 
@@ -11,21 +9,18 @@ public class Generation {
 	private byte[][][] geno;
 	
 	public Generation(Point[][] population, double[] props) {
-		super();
 		this.population = population;
 		this.props = props;
 		geno(population);
 	}
 
 	public Generation(byte[][][] bts, Point[] ps) {
-		super();
 		this.geno = bts;
 		pheno(bts);
 		props(this.population, ps);
 	}
 
 	public Generation(Point[][] population, Point[] ps) {
-		super();
 		this.population = population;
 		props(population, ps);
 		geno(population);

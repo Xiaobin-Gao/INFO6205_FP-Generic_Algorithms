@@ -8,7 +8,7 @@ import java.io.IOException;
 
 import javax.imageio.ImageIO;
 
-import ga.dao.Point;
+import ga.gene.Point;
 
 public class Readimage {
 	

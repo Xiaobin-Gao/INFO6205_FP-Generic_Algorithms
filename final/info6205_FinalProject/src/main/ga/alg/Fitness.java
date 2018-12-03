@@ -1,6 +1,6 @@
 package ga.alg;
 
-import ga.dao.Point;
+import ga.gene.Point;
 
 public class Fitness {
 	

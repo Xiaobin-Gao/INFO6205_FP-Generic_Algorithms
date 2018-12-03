@@ -2,7 +2,7 @@ package ga.alg;
 
 import java.util.Arrays;
 
-import ga.dao.Generation;
+import ga.gene.Generation;
 
 public class Survive {
 

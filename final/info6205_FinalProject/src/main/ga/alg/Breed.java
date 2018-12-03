@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
-import ga.dao.Generation;
+import ga.gene.Generation;
 
 public class Breed {
 

@@ -1,4 +1,4 @@
-package ga.dao;
+package ga.gene;
 
 
 public class Point implements Comparable<Point>{
