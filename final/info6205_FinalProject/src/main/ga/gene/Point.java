@@ -99,6 +99,7 @@ public class Point implements Comparable<Point>{
 		 result[7] = (byte) (y & 0xFF); 
 		 return result;  
 	}
+	
 	public static Point toPoint(byte[] bytes) {
 		int x = 0;
 		int y = 0;
@@ -111,5 +112,13 @@ public class Point implements Comparable<Point>{
 			y += (bytes[i+4] & 0x000000FF)<<shift;
 		}
 		return new Point(x,y);
+	}
+	
+	public static void main(String[] args) {
+		Point p = new Point(40, 50);
+		byte[] b = p.toByte();
+		for (int i = 0; i < b.length; i++) {
+			System.out.println(b[i]);
+		}
 	}
 }
