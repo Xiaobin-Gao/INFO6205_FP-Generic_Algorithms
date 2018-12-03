@@ -9,10 +9,5 @@
 	<classpathentry kind="src" path="resource"/>
 	<classpathentry kind="src" path="src/main"/>
 	<classpathentry kind="src" path="src/test"/>
-<<<<<<< HEAD
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
-=======
-	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
->>>>>>> branch 'master' of https://github.com/Xiaobin-Gao/INFO6205_221
 	<classpathentry kind="output" path="bin"/>
 </classpath>
