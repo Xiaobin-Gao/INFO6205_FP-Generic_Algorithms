@@ -113,12 +113,5 @@ public class Point implements Comparable<Point>{
 		}
 		return new Point(x,y);
 	}
-	
-	public static void main(String[] args) {
-		Point p = new Point(40, 50);
-		byte[] b = p.toByte();
-		for (int i = 0; i < b.length; i++) {
-			System.out.println(b[i]);
-		}
-	}
+
 }
