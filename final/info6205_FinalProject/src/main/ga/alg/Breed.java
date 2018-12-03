@@ -63,7 +63,7 @@ public class Breed {
 		return nextGeneration;
 	}
 
-	private static byte[][] cross(byte[][] fa, byte[][] mo, boolean mut, int th) {
+	public static byte[][] cross(byte[][] fa, byte[][] mo, boolean mut, int th) {
 		byte[][] child = new byte[fa.length][8];
 		Random random = new Random();
 		int mutChro[] = new int[mo.length / th];
@@ -84,36 +84,6 @@ public class Breed {
 					mut = false;
 				}
 			}
-//			double d = random.nextDouble();
-//			if (d > 0.5) {
-//				int j = 0;
-//				while (j < 8) {
-//					if ((j == 3 || j == 7) && mut) {
-//						int x = mo[i][j];
-//						int y = (int) (x * (random.nextDouble()+0.5));
-//						child[i][j] = (byte) (y & 0xFF);
-//					} else if (j % 2 == 0) {
-//						child[i][j] = fa[i][j];
-//					} else {
-//						child[i][j] = mo[i][j];
-//					}
-//					j++;
-//				}
-//			} else {
-//				int j = 0;
-//				while (j < 8) {
-//					if ((j == 3 || j == 7) && mut) {
-//						int x = fa[i][j];
-//						int y = (int) (x * (random.nextDouble()+0.5));
-//						child[i][j] = (byte) (y & 0xFF);
-//					} else if (j % 2 == 0) {
-//						child[i][j] = mo[i][j];
-//					} else {
-//						child[i][j] = fa[i][j];
-//					}
-//					j++;
-//				}
-//			}
 			
 			int j = 0;
 			while (j < 8) {
@@ -137,7 +107,7 @@ public class Breed {
 		return child;
 	}
 
-	private static int copy(int i, double[] props) {
+	public static int copy(int i, double[] props) {
 		Map<Integer, Double> map = new HashMap<>();
 		int l = props.length;
 		for (int j = 0; j < l; j++) {
