@@ -13,8 +13,9 @@ public class Driver {
 	public static void main(String[] args) {
 		long start = System.currentTimeMillis();
 		try {
-			Readimage ri = new Readimage(20);
-			Point[] ps = ri.getImagePixelToArray("resource/333.png");
+			Readimage ri = new Readimage(5);
+			Point[] ps = ri.getImagePixelToArray("resource/target.png");
+			ri.writeImage(ps, "resource/compress.png");
 			ga(ps, ri);
 			
 		} catch (Exception e) {
@@ -24,7 +25,7 @@ public class Driver {
 		System.out.println(end - start);
 	}
 
-	public static void write(Point[] ps, Point[][] firstGen) throws Exception {		
+	public static void write(Point[] ps) throws Exception {		
 		
 		String fileName = "resource/write.txt";
 		BufferedWriter out = new BufferedWriter(new FileWriter(fileName));
@@ -32,14 +33,6 @@ public class Driver {
 		for (Point p : ps) {
 			out.write(p.toString());
 			out.newLine();
-		}
-		out.write("First Generation:\n");
-		for (int i = 0; i < firstGen.length; i++) {
-			out.write(i + "th population: \n");
-			for (int j = 0; j < firstGen[i].length; j++) {
-				out.write(firstGen[i][j].toString());
-				out.newLine();
-			}
 		}
 		out.close();
 	}
@@ -55,7 +48,7 @@ public class Driver {
 			gen = new Generation(child,ps);
 			child = null;
 			if(i%99==0) {
-				String fileN = "resource/t"+i+".png";
+				String fileN = "resource/gen"+i+".png";
 				ri.writeImage(gen.max(), fileN);
 			}
 		}

@@ -39,6 +39,9 @@ public class Readimage {
 			if(i%small!=0) continue;
 			for (int j = miny; j < height; j++) {
 				int pixel = bi.getRGB(i, j);
+				if(pixel >> 24 == 0) {
+					continue;
+				}
 				rgb[0] = (pixel & 0xff0000) >> 16;
 				rgb[1] = (pixel & 0xff00) >> 8;
 				rgb[2] = (pixel & 0xff);
