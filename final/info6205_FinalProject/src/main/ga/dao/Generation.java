@@ -2,6 +2,8 @@ package ga.dao;
 
 import java.util.Arrays;
 
+import ga.alg.Rank;
+
 public class Generation {
 
 	private Point[][] population;
