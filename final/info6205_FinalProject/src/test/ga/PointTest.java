@@ -79,7 +79,7 @@ class PointTest {
 		individual[2] = p7;
 		individual[3] = p8;
 		Fitness f1 = new Fitness();
-		double result = f1.calDis(ps,individual);		
+		double result = Fitness.calDis(ps,individual);		
 		assertEquals(0.0, result, 1.0);
 		
 		Point pp1 = new Point(10, 4);
@@ -105,7 +105,7 @@ class PointTest {
 		individual1[3] = pp8;
 		Fitness f2 = new Fitness();
 
-		double result2 = f2.calDis(pps,individual1);	
+		double result2 = Fitness.calDis(pps,individual1);	
 		
 		assertEquals(15.23606797749979, result2, 1.0);
 	}
