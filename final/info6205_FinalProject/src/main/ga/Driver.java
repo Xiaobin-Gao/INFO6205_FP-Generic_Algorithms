@@ -13,11 +13,10 @@ public class Driver {
 	public static void main(String[] args) {
 		long start = System.currentTimeMillis();
 		try {
-			Readimage ri = new Readimage(4);
+			Readimage ri = new Readimage(5);
 			Point[] ps = ri.getImagePixelToArray("resource/target.png");
 			ri.writeImage(ps, "resource/compress.png");
-			write(ps);
-//			ga(ps, ri);
+			ga(ps, ri);
 			
 		} catch (Exception e) {
 			e.printStackTrace();
