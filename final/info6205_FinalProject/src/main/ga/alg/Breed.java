@@ -1,9 +1,15 @@
 package ga.alg;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.Random;
+import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.ForkJoinPool;
+import java.util.concurrent.Future;
 
 import ga.gene.Generation;
 
@@ -11,7 +17,7 @@ public class Breed {
 
 	private static int copy = 4;
 
-	public static byte[][][] execute(Generation gen) {
+	public static byte[][][] execute(Generation gen) throws Exception{
 		byte[][][] geno = gen.getGeno();
 		double[] props = gen.getProps();
 		int sizeOfPop = 2 * geno.length;
@@ -34,6 +40,7 @@ public class Breed {
 		}
 		byte[][][] nextGeneration = new byte[sizeOfPop][geno[0].length][];
 		int[] mutation = Selection.selectMutId(geno.length);
+		List<Future<byte[][]>> ls = new ArrayList<>();
 		int i = 0;
 		while (i < sizeOfPop) {
 			if (i < copy) {
@@ -52,14 +59,32 @@ public class Breed {
 			}
 			int fa = Selection.selectId(props);
 			int mo = Selection.selectId(props);
-			nextGeneration[i] = cross(geno[fa], geno[mo], mut, th);
+			
+			Future<byte[][]> fu = exector.submit(new CallableTest(geno[fa], geno[mo], mut, th));
+//			nextGeneration[i] = fu.get();
+			
+//			nextGeneration[i] = cross(geno[fa],geno[mo],mut,th);
+			
 			i++;
 			if (i >= sizeOfPop) {
+				ls.add(fu);
 				break;
 			}
-			nextGeneration[i] = cross(geno[fa], geno[mo], mut, th);
+			Future<byte[][]> fu2 = exector.submit(new CallableTest(geno[fa], geno[mo], mut, th));
+//			nextGeneration[i] = fu2.get();
+			
+//			nextGeneration[i] = cross(geno[fa],geno[mo],mut,th);
+						
+			i++;
+			ls.add(fu);
+			ls.add(fu2);
+		}
+		i = copy;
+		for(Future<byte[][]> f : ls) {
+			nextGeneration[i] = f.get();
 			i++;
 		}
+		
 		return nextGeneration;
 	}
 
@@ -83,8 +108,7 @@ public class Breed {
 				} else {
 					mut = false;
 				}
-			}
-			
+			}		
 			int j = 0;
 			while (j < 8) {
 				double d = random.nextDouble();
@@ -124,5 +148,23 @@ public class Breed {
 			}
 		}
 		return res;
+	}
+	
+	public static ExecutorService exector = new ForkJoinPool();
+	private static class CallableTest implements Callable<byte[][]>{
+		private byte[][] fa;
+		private byte[][] mo;
+		private boolean mu;
+		private int th;
+		@Override
+		public byte[][] call() throws Exception {
+			return cross(fa, mo, mu, th);
+		}
+		public CallableTest(byte[][] fa, byte[][] mo, boolean mut, int th){
+			this.fa = fa;
+			this.mo = mo;
+			this.mu = mut;
+			this.th = th;
+		}
 	}
 }
