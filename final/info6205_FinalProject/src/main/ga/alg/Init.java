@@ -23,16 +23,18 @@ public class Init {
 		this.yMax = yMax;
 		produceGen(ps);
 	}
-	
+	/**
+	 * generate random points as first generation
+	 * @param ps
+	 * @return
+	 */
 	private Generation produceGen(Point[] ps){
 		population = new Point[sizeOfPop][sizeOfChro];
 		Random random = new Random();
 		for (int i = 0; i < sizeOfPop; i++) {
 			for (int j = 0; j < sizeOfChro; j++) {
-				population[i][j] = new Point(random.nextInt(xMax), random.nextInt(yMax));
-				
+				population[i][j] = new Point(random.nextInt(xMax), random.nextInt(yMax));				
 			}
-//			Arrays.sort(population[i]);
 		}
 		generation = new Generation(population,ps);
 		return generation;

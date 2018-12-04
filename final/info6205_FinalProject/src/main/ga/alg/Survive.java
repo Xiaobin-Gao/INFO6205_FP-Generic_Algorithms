@@ -6,6 +6,11 @@ import ga.gene.Generation;
 
 public class Survive {
 
+	/**
+	 * survive to half of the population
+	 * @param gen
+	 * @return survived individuals
+	 */
 	public static int[] execute(Generation gen){
 		double[] props = gen.getProps();
 		double[] sorted = new double [props.length];

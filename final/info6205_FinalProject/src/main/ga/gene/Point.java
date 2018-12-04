@@ -54,6 +54,11 @@ public class Point implements Comparable<Point>{
 		this.rgb = rgb;
 	}
 	
+	/**
+	 * calculate the distance between two points
+	 * @param p1
+	 * @return
+	 */
 	public double distance(Point p1) {
 		double dis = Math.sqrt((x-p1.getX())*(x-p1.getX())+(y-p1.getY())*(y-p1.getY()));
 		return dis;
@@ -86,7 +91,10 @@ public class Point implements Comparable<Point>{
 			}
 		}
 	}
-	
+	/**
+	 * change point to a byte array
+	 * @return byte array
+	 */
 	public byte[] toByte() {
 		 byte[] result = new byte[8];
 		 result[0] = (byte) ((x >> 24) & 0xFF);  
@@ -99,7 +107,11 @@ public class Point implements Comparable<Point>{
 		 result[7] = (byte) (y & 0xFF); 
 		 return result;  
 	}
-	
+	/**
+	 * change byte array to point
+	 * @param bytes
+	 * @return point
+	 */
 	public static Point toPoint(byte[] bytes) {
 		int x = 0;
 		int y = 0;

@@ -4,6 +4,13 @@ import ga.gene.Point;
 
 public class Rank {
 	
+	/**
+	 * calculate fitness rate
+	 * which means individual fitness in which rate of the general fitness
+	 * @param ps
+	 * @param population
+	 * @return
+	 */
 	public static double[] execute(Point[] ps,Point[][] population) {
 		double[] fits = new double[population.length];
 		double[] props = new double[population.length];
@@ -26,7 +33,11 @@ public class Rank {
 	
 		return fits;
 	}
-	
+	/**
+	 * recalculate the fitness rate
+	 * @param props
+	 * @return
+	 */
 	public static double[] recalculate(double[] props) {
 		double sum = 0;
 		for (int i = 0; i < props.length; i++) {

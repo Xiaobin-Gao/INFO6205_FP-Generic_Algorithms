@@ -17,6 +17,13 @@ public class Breed {
 
 	private static int copy = 4;
 
+	/**
+	 * breed to next generation
+	 * return is genetype
+	 * @param gen
+	 * @return
+	 * @throws Exception
+	 */
 	public static byte[][][] execute(Generation gen) throws Exception{
 		byte[][][] geno = gen.getGeno();
 		double[] props = gen.getProps();
@@ -82,6 +89,15 @@ public class Breed {
 		return nextGeneration;
 	}
 
+	/**
+	 * crossover and mutation
+	 * for th individual mutation one individual
+	 * @param fa
+	 * @param mo
+	 * @param mut
+	 * @param th
+	 * @return
+	 */
 	public static byte[][] cross(byte[][] fa, byte[][] mo, boolean mut, int th) {
 		byte[][] child = new byte[fa.length][8];
 		Random random = new Random();
@@ -125,6 +141,12 @@ public class Breed {
 		return child;
 	}
 
+	/**
+	 * return the index of the i th best in the population
+	 * @param i
+	 * @param props
+	 * @return
+	 */
 	public static int copy(int i, double[] props) {
 		Map<Integer, Double> map = new HashMap<>();
 		int l = props.length;
@@ -145,6 +167,8 @@ public class Breed {
 	}
 	
 	public static ExecutorService exector = new ForkJoinPool();
+	
+	// Callable class
 	private static class CallableTest implements Callable<byte[][]>{
 		private byte[][] fa;
 		private byte[][] mo;

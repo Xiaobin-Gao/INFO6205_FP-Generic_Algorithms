@@ -12,7 +12,9 @@ import ga.gene.*;
 
 
 public class Driver {
+	
 	private static Logger log = Logger.getLogger(Driver.class);
+	
 	public static void main(String[] args) {
 		long start = System.currentTimeMillis();
 		PropertyConfigurator.configure("resource/Log/log4j.properties");
@@ -33,19 +35,12 @@ public class Driver {
 		long end = System.currentTimeMillis();
 		System.out.println(end - start);
 	}
-
-	public static void write(Point[] ps) throws Exception {		
-		
-		String fileName = "resource/write.txt";
-		BufferedWriter out = new BufferedWriter(new FileWriter(fileName));
-		out.write("Target :\n");
-		for (Point p : ps) {
-			out.write(p.toString());
-			out.newLine();
-		}
-		out.close();
-	}
-
+	/**
+	 * GA main function
+	 * @param ps
+	 * @param ri
+	 * @throws Exception
+	 */
 	public static void ga(Point[] ps, Readimage ri) throws Exception{
 		Init init = new Init(1000, ps.length, ri.getWidth(), ri.getHeight(), ps);
 		Generation gen = init.getGeneration();
@@ -68,5 +63,21 @@ public class Driver {
 		System.out.println(Fitness.calDis(ps, gen.max()));
 		System.out.println(gen.getPopulation().length);
 		ri.writeImage(gen.max(), "resource/result.png");
+	}
+	/**
+	 * see points
+	 * @param ps
+	 * @throws Exception
+	 */
+	public static void write(Point[] ps) throws Exception {		
+		
+		String fileName = "resource/write.txt";
+		BufferedWriter out = new BufferedWriter(new FileWriter(fileName));
+		out.write("Target :\n");
+		for (Point p : ps) {
+			out.write(p.toString());
+			out.newLine();
+		}
+		out.close();
 	}
 }

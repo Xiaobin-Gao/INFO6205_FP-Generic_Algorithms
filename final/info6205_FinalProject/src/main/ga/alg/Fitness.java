@@ -6,6 +6,8 @@ public class Fitness {
 	
 	/**
 	 * To calculate fitness
+	 * it is reverse of the total distance for all points between
+	 * generation and target
 	 * @param individual an individual's information
 	 * @return fitness
 	 */

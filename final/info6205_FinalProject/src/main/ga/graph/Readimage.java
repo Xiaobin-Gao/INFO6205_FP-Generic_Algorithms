@@ -16,11 +16,21 @@ public class Readimage {
 		super();
 		this.small = small;
 	}
-
+	/**
+	 * small means small times
+	 * width is the width after compress
+	 * height is the height after compress
+	 */
 	private int small;
 	private int width;
 	private int height;
 
+	/**
+	 * Read image
+	 * @param image
+	 * @return
+	 * @throws Exception
+	 */
 	public Point[] getImagePixelToArray(String image) throws Exception {
 		int[] rgb = new int[3];
 		File file = new File(image);
@@ -64,26 +74,11 @@ public class Readimage {
 		System.out.println("width=" + this.width + ",height=" + this.height + ".");
 		return point;
 	}
-
-	public void writeImage(Point[] ps) {
-		BufferedImage newImage = new BufferedImage(width + 1, height + 1, BufferedImage.TYPE_INT_ARGB);
-		Graphics g = newImage.getGraphics();
-		g.setColor(new Color(0, 0, 0));
-		for (Point p : ps) {
-			g.drawOval(p.getX(), p.getY(), 1, 1);
-		}
-		g.dispose();
-		boolean val = false;
-		try {
-			val = ImageIO.write(newImage, "png", new File("resource/test3.png"));
-			if (val == false) {
-				System.out.println(val);
-			}
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
-
+	/**
+	 * Write output image
+	 * @param ps
+	 * @param addr
+	 */
 	public void writeImage(Point[] ps, String addr) {
 		BufferedImage newImage = new BufferedImage(width + 1, height + 1, BufferedImage.TYPE_INT_ARGB);
 		Graphics g = newImage.getGraphics();
