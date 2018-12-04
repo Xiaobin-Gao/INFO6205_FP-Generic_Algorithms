@@ -54,17 +54,13 @@ public class Driver {
 			child = null;
 			if(i%99==0) {
 				String fileN = "resource/gen"+i+".png";
-				ri.writeImage(gen.max(), fileN);
+				Point[] p = gen.max();
+				new Thread((()->ri.writeImage(p, fileN))).start();
+				log.info(Fitness.calDis(ps, p));
 			}
-		}
-		Point[][] generation = gen.getPopulation();
-		double[] firrank = Rank.adapt(ps, generation);
-		for (int i = 0; i < firrank.length; i++) {
-			System.out.println(firrank[i]);
 		}
 		System.out.println(Fitness.calDis(ps, gen.max()));
 		System.out.println(gen.getPopulation().length);
-		System.out.println(generation[0]==generation[1]);
 		ri.writeImage(gen.max(), "resource/result.png");
 	}
 }
