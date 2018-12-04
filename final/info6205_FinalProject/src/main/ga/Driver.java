@@ -42,7 +42,7 @@ public class Driver {
 		out.close();
 	}
 	
-	public static void ga(Point[] ps, Readimage ri) {
+	public static void ga(Point[] ps, Readimage ri) throws Exception{
 		Init init = new Init(1000, ps.length, ri.getWidth(), ri.getHeight(), ps);
 		Generation gen = init.getGeneration();
 		for (int i = 0; i < 5000; i++) {
