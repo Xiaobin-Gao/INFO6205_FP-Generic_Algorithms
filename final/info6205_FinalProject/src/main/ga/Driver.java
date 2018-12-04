@@ -16,7 +16,7 @@ public class Driver {
 	public static void main(String[] args) {
 		long start = System.currentTimeMillis();
 		PropertyConfigurator.configure("resource/Log/log4j.properties");
-		
+		log.info("Log is begining>>>>");
 		try {
 			Readimage ri = new Readimage(5);
 			Point[] ps = ri.getImagePixelToArray("resource/target.png");
