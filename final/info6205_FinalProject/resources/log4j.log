@@ -1,1741 +1,1797 @@
-[main] INFO ga.Driver - 697.6218529747291
-[main] INFO ga.Driver - Generation :691
-[main] INFO ga.Driver - 697.3764897821437
-[main] INFO ga.Driver - Generation :692
-[main] INFO ga.Driver - 696.5639305821026
-[main] INFO ga.Driver - Generation :693
-[main] INFO ga.Driver - 695.1338490950244
-[main] INFO ga.Driver - Generation :694
-[main] INFO ga.Driver - 692.6617131400247
-[main] INFO ga.Driver - Generation :695
-[main] INFO ga.Driver - 692.6617131400247
-[main] INFO ga.Driver - Generation :696
-[main] INFO ga.Driver - 691.4016529219341
-[main] INFO ga.Driver - Generation :697
-[main] INFO ga.Driver - 689.5797985068074
-[main] INFO ga.Driver - Generation :698
-[main] INFO ga.Driver - 688.3437305293075
-[main] INFO ga.Driver - Generation :699
-[main] INFO ga.Driver - 687.5153034045612
-[main] INFO ga.Driver - Generation :700
-[main] INFO ga.Driver - 686.8251616993925
-[main] INFO ga.Driver - Generation :701
-[main] INFO ga.Driver - 685.751371382061
-[main] INFO ga.Driver - Generation :702
-[main] INFO ga.Driver - 684.2951033517663
-[main] INFO ga.Driver - Generation :703
-[main] INFO ga.Driver - 683.2951033517663
-[main] INFO ga.Driver - Generation :704
-[main] INFO ga.Driver - 683.1076625518077
-[main] INFO ga.Driver - Generation :705
-[main] INFO ga.Driver - 680.8715945743079
-[main] INFO ga.Driver - Generation :706
-[main] INFO ga.Driver - 679.3928859096887
-[main] INFO ga.Driver - Generation :707
-[main] INFO ga.Driver - 678.6289538871886
-[main] INFO ga.Driver - Generation :708
-[main] INFO ga.Driver - 677.3928859096886
-[main] INFO ga.Driver - Generation :709
-[main] INFO ga.Driver - 677.3928859096886
-[main] INFO ga.Driver - Generation :710
-[main] INFO ga.Driver - 675.6289538871885
-[main] INFO ga.Driver - Generation :711
-[main] INFO ga.Driver - 674.9786723473155
-[main] INFO ga.Driver - Generation :712
-[main] INFO ga.Driver - 672.8070994720617
-[main] INFO ga.Driver - Generation :713
-[main] INFO ga.Driver - 672.6289538871885
-[main] INFO ga.Driver - Generation :714
-[main] INFO ga.Driver - 669.9786723473155
-[main] INFO ga.Driver - Generation :715
-[main] INFO ga.Driver - 669.3928859096886
-[main] INFO ga.Driver - Generation :716
-[main] INFO ga.Driver - 668.6448218118934
-[main] INFO ga.Driver - Generation :717
-[main] INFO ga.Driver - 667.9207499546891
-[main] INFO ga.Driver - Generation :718
-[main] INFO ga.Driver - 667.5644587849424
-[main] INFO ga.Driver - Generation :719
-[main] INFO ga.Driver - 665.1726858568938
-[main] INFO ga.Driver - Generation :720
-[main] INFO ga.Driver - 665.1726858568938
-[main] INFO ga.Driver - Generation :721
-[main] INFO ga.Driver - 664.3349635170622
-[main] INFO ga.Driver - Generation :722
-[main] INFO ga.Driver - 663.7426043698158
-[main] INFO ga.Driver - Generation :723
-[main] INFO ga.Driver - 662.7426043698158
-[main] INFO ga.Driver - Generation :724
-[main] INFO ga.Driver - 662.3442587321476
-[main] INFO ga.Driver - Generation :725
-[main] INFO ga.Driver - 661.9300451697745
-[main] INFO ga.Driver - Generation :726
-[main] INFO ga.Driver - 661.5065363923161
-[main] INFO ga.Driver - Generation :727
-[main] INFO ga.Driver - 661.3283908074427
-[main] INFO ga.Driver - Generation :728
-[main] INFO ga.Driver - 660.6781092675699
-[main] INFO ga.Driver - Generation :729
-[main] INFO ga.Driver - 659.9300451697745
-[main] INFO ga.Driver - Generation :730
-[main] INFO ga.Driver - 659.2638957051967
-[main] INFO ga.Driver - Generation :731
-[main] INFO ga.Driver - 658.9141772450696
-[main] INFO ga.Driver - Generation :732
-[main] INFO ga.Driver - 658.6781092675698
-[main] INFO ga.Driver - Generation :733
-[main] INFO ga.Driver - 657.8655500675285
-[main] INFO ga.Driver - Generation :734
-[main] INFO ga.Driver - 657.5158316074014
-[main] INFO ga.Driver - Generation :735
-[main] INFO ga.Driver - 656.4420412900699
-[main] INFO ga.Driver - Generation :736
-[main] INFO ga.Driver - 655.9234724601549
-[main] INFO ga.Driver - Generation :737
-[main] INFO ga.Driver - 655.1016180450283
-[main] INFO ga.Driver - Generation :738
-[main] INFO ga.Driver - 654.4513365051554
-[main] INFO ga.Driver - Generation :739
-[main] INFO ga.Driver - 653.0371229427823
-[main] INFO ga.Driver - Generation :740
-[main] INFO ga.Driver - 652.4513365051554
-[main] INFO ga.Driver - Generation :741
-[main] INFO ga.Driver - 651.0371229427823
-[main] INFO ga.Driver - Generation :742
-[main] INFO ga.Driver - 651.0371229427823
-[main] INFO ga.Driver - Generation :743
-[main] INFO ga.Driver - 648.7851870405775
-[main] INFO ga.Driver - Generation :744
-[main] INFO ga.Driver - 648.6229093804092
-[main] INFO ga.Driver - Generation :745
-[main] INFO ga.Driver - 648.4447637955358
-[main] INFO ga.Driver - Generation :746
-[main] INFO ga.Driver - 646.6070414557042
-[main] INFO ga.Driver - Generation :747
-[main] INFO ga.Driver - 645.9726278405362
-[main] INFO ga.Driver - Generation :748
-[main] INFO ga.Driver - 645.6229093804092
-[main] INFO ga.Driver - Generation :749
-[main] INFO ga.Driver - 644.14420071579
-[main] INFO ga.Driver - Generation :750
-[main] INFO ga.Driver - 643.14420071579
-[main] INFO ga.Driver - Generation :751
-[main] INFO ga.Driver - 643.14420071579
-[main] INFO ga.Driver - Generation :752
-[main] INFO ga.Driver - 642.9660551309167
-[main] INFO ga.Driver - Generation :753
-[main] INFO ga.Driver - 642.2021231084165
-[main] INFO ga.Driver - Generation :754
-[main] INFO ga.Driver - 641.5004918855367
-[main] INFO ga.Driver - Generation :755
-[main] INFO ga.Driver - 640.4939191759171
-[main] INFO ga.Driver - Generation :756
-[main] INFO ga.Driver - 640.4939191759171
-[main] INFO ga.Driver - Generation :757
-[main] INFO ga.Driver - 640.14420071579
-[main] INFO ga.Driver - Generation :758
-[main] INFO ga.Driver - 639.079705613544
-[main] INFO ga.Driver - Generation :759
-[main] INFO ga.Driver - 638.3157735910438
-[main] INFO ga.Driver - Generation :760
-[main] INFO ga.Driver - 636.9081327382902
-[main] INFO ga.Driver - Generation :761
-[main] INFO ga.Driver - 635.9819230556217
-[main] INFO ga.Driver - Generation :762
-[main] INFO ga.Driver - 634.3316415157489
-[main] INFO ga.Driver - Generation :763
-[main] INFO ga.Driver - 631.5677094932486
-[main] INFO ga.Driver - Generation :764
-[main] INFO ga.Driver - 631.5677094932486
-[main] INFO ga.Driver - Generation :765
-[main] INFO ga.Driver - 631.5677094932486
-[main] INFO ga.Driver - Generation :766
-[main] INFO ga.Driver - 631.1534959308755
-[main] INFO ga.Driver - Generation :767
-[main] INFO ga.Driver - 630.9174279533756
-[main] INFO ga.Driver - Generation :768
-[main] INFO ga.Driver - 629.8595055607492
-[main] INFO ga.Driver - Generation :769
-[main] INFO ga.Driver - 629.6813599758758
-[main] INFO ga.Driver - Generation :770
-[main] INFO ga.Driver - 628.8529328511296
-[main] INFO ga.Driver - Generation :771
-[main] INFO ga.Driver - 628.8529328511296
-[main] INFO ga.Driver - Generation :772
-[main] INFO ga.Driver - 627.8529328511297
-[main] INFO ga.Driver - Generation :773
-[main] INFO ga.Driver - 627.6813599758758
-[main] INFO ga.Driver - Generation :774
-[main] INFO ga.Driver - 627.2671464135028
-[main] INFO ga.Driver - Generation :775
-[main] INFO ga.Driver - 625.8529328511297
-[main] INFO ga.Driver - Generation :776
-[main] INFO ga.Driver - 625.0245057263835
-[main] INFO ga.Driver - Generation :777
-[main] INFO ga.Driver - 624.2671464135028
-[main] INFO ga.Driver - Generation :778
-[main] INFO ga.Driver - 624.031078436003
-[main] INFO ga.Driver - Generation :779
-[main] INFO ga.Driver - 623.6168648736299
-[main] INFO ga.Driver - Generation :780
-[main] INFO ga.Driver - 623.031078436003
-[main] INFO ga.Driver - Generation :781
-[main] INFO ga.Driver - 622.6168648736299
-[main] INFO ga.Driver - Generation :782
-[main] INFO ga.Driver - 622.0245057263835
-[main] INFO ga.Driver - Generation :783
-[main] INFO ga.Driver - 621.6102921640104
-[main] INFO ga.Driver - Generation :784
-[main] INFO ga.Driver - 620.3807968961302
-[main] INFO ga.Driver - Generation :785
-[main] INFO ga.Driver - 619.7884377488838
-[main] INFO ga.Driver - Generation :786
-[main] INFO ga.Driver - 618.6102921640104
-[main] INFO ga.Driver - Generation :787
-[main] INFO ga.Driver - 618.3742241865107
-[main] INFO ga.Driver - Generation :788
-[main] INFO ga.Driver - 617.3742241865107
-[main] INFO ga.Driver - Generation :789
-[main] INFO ga.Driver - 616.1381562090108
-[main] INFO ga.Driver - Generation :790
-[main] INFO ga.Driver - 616.1381562090108
-[main] INFO ga.Driver - Generation :791
-[main] INFO ga.Driver - 615.3097290842646
-[main] INFO ga.Driver - Generation :792
-[main] INFO ga.Driver - 614.1381562090108
-[main] INFO ga.Driver - Generation :793
-[main] INFO ga.Driver - 613.3742241865106
-[main] INFO ga.Driver - Generation :794
-[main] INFO ga.Driver - 613.3097290842646
-[main] INFO ga.Driver - Generation :795
-[main] INFO ga.Driver - 612.487874669138
-[main] INFO ga.Driver - Generation :796
-[main] INFO ga.Driver - 610.487874669138
-[main] INFO ga.Driver - Generation :797
-[main] INFO ga.Driver - 610.487874669138
-[main] INFO ga.Driver - Generation :798
-[main] INFO ga.Driver - 609.487874669138
-[main] INFO ga.Driver - Generation :799
-[main] INFO ga.Driver - 609.4299522765115
-[main] INFO ga.Driver - Generation :800
-[main] INFO ga.Driver - 608.2518066916382
-[main] INFO ga.Driver - Generation :801
-[main] INFO ga.Driver - 607.487874669138
-[main] INFO ga.Driver - Generation :802
-[main] INFO ga.Driver - 606.6660202540113
-[main] INFO ga.Driver - Generation :803
-[main] INFO ga.Driver - 606.2518066916382
-[main] INFO ga.Driver - Generation :804
-[main] INFO ga.Driver - 604.6753154690967
-[main] INFO ga.Driver - Generation :805
-[main] INFO ga.Driver - 604.4299522765115
-[main] INFO ga.Driver - Generation :806
-[main] INFO ga.Driver - 603.0157387141384
-[main] INFO ga.Driver - Generation :807
-[main] INFO ga.Driver - 603.503742593843
-[main] INFO ga.Driver - Generation :808
-[main] INFO ga.Driver - 602.4299522765115
-[main] INFO ga.Driver - Generation :809
-[main] INFO ga.Driver - 602.4299522765115
-[main] INFO ga.Driver - Generation :810
-[main] INFO ga.Driver - 601.0157387141384
-[main] INFO ga.Driver - Generation :811
-[main] INFO ga.Driver - 600.8375931292651
-[main] INFO ga.Driver - Generation :812
-[main] INFO ga.Driver - 600.1873115893922
-[main] INFO ga.Driver - Generation :813
-[main] INFO ga.Driver - 599.6015251517653
-[main] INFO ga.Driver - Generation :814
-[main] INFO ga.Driver - 599.1873115893922
-[main] INFO ga.Driver - Generation :815
-[main] INFO ga.Driver - 599.0250339292238
-[main] INFO ga.Driver - Generation :816
-[main] INFO ga.Driver - 598.6015251517653
-[main] INFO ga.Driver - Generation :817
-[main] INFO ga.Driver - 597.773098027019
-[main] INFO ga.Driver - Generation :818
-[main] INFO ga.Driver - 597.3588844646459
-[main] INFO ga.Driver - Generation :819
-[main] INFO ga.Driver - 597.1873115893922
-[main] INFO ga.Driver - Generation :820
-[main] INFO ga.Driver - 595.773098027019
-[main] INFO ga.Driver - Generation :821
-[main] INFO ga.Driver - 595.3588844646459
-[main] INFO ga.Driver - Generation :822
-[main] INFO ga.Driver - 594.1873115893922
-[main] INFO ga.Driver - Generation :823
-[main] INFO ga.Driver - 593.773098027019
-[main] INFO ga.Driver - Generation :824
-[main] INFO ga.Driver - 592.358884464646
-[main] INFO ga.Driver - Generation :825
-[main] INFO ga.Driver - 591.3588844646459
-[main] INFO ga.Driver - Generation :826
-[main] INFO ga.Driver - 591.1966068044776
-[main] INFO ga.Driver - Generation :827
-[main] INFO ga.Driver - 589.7730980270192
-[main] INFO ga.Driver - Generation :828
-[main] INFO ga.Driver - 589.1966068044776
-[main] INFO ga.Driver - Generation :829
-[main] INFO ga.Driver - 588.1966068044776
-[main] INFO ga.Driver - Generation :830
-[main] INFO ga.Driver - 588.1966068044776
-[main] INFO ga.Driver - Generation :831
-[main] INFO ga.Driver - 587.7823932421045
-[main] INFO ga.Driver - Generation :832
-[main] INFO ga.Driver - 586.944670902273
-[main] INFO ga.Driver - Generation :833
-[main] INFO ga.Driver - 586.5304573398998
-[main] INFO ga.Driver - Generation :834
-[main] INFO ga.Driver - 586.1966068044776
-[main] INFO ga.Driver - Generation :835
-[main] INFO ga.Driver - 585.7823932421045
-[main] INFO ga.Driver - Generation :836
-[main] INFO ga.Driver - 585.1966068044776
-[main] INFO ga.Driver - Generation :837
-[main] INFO ga.Driver - 584.3681796797314
-[main] INFO ga.Driver - Generation :838
-[main] INFO ga.Driver - 583.5304573398997
-[main] INFO ga.Driver - Generation :839
-[main] INFO ga.Driver - 583.1162437775266
-[main] INFO ga.Driver - Generation :840
-[main] INFO ga.Driver - 582.9539661173583
-[main] INFO ga.Driver - Generation :841
-[main] INFO ga.Driver - 582.3681796797314
-[main] INFO ga.Driver - Generation :842
-[main] INFO ga.Driver - 580.7178981398584
-[main] INFO ga.Driver - Generation :843
-[main] INFO ga.Driver - 579.4818301623586
-[main] INFO ga.Driver - Generation :844
-[main] INFO ga.Driver - 578.7178981398584
-[main] INFO ga.Driver - Generation :845
-[main] INFO ga.Driver - 576.7178981398584
-[main] INFO ga.Driver - Generation :846
-[main] INFO ga.Driver - 574.8960437247317
-[main] INFO ga.Driver - Generation :847
-[main] INFO ga.Driver - 574.8960437247317
-[main] INFO ga.Driver - Generation :848
-[main] INFO ga.Driver - 573.8960437247317
-[main] INFO ga.Driver - Generation :849
-[main] INFO ga.Driver - 573.4818301623586
-[main] INFO ga.Driver - Generation :850
-[main] INFO ga.Driver - 572.0676165999855
-[main] INFO ga.Driver - Generation :851
-[main] INFO ga.Driver - 571.2391894752393
-[main] INFO ga.Driver - Generation :852
-[main] INFO ga.Driver - 571.2391894752393
-[main] INFO ga.Driver - Generation :853
-[main] INFO ga.Driver - 571.0676165999855
-[main] INFO ga.Driver - Generation :854
-[main] INFO ga.Driver - 570.0676165999855
-[main] INFO ga.Driver - Generation :855
-[main] INFO ga.Driver - 569.6534030376124
-[main] INFO ga.Driver - Generation :856
-[main] INFO ga.Driver - 569.2391894752393
-[main] INFO ga.Driver - Generation :857
-[main] INFO ga.Driver - 569.0676165999855
-[main] INFO ga.Driver - Generation :858
-[main] INFO ga.Driver - 568.6534030376124
-[main] INFO ga.Driver - Generation :859
-[main] INFO ga.Driver - 567.4752574527391
-[main] INFO ga.Driver - Generation :860
-[main] INFO ga.Driver - 567.2391894752393
-[main] INFO ga.Driver - Generation :861
-[main] INFO ga.Driver - 566.4173350601126
-[main] INFO ga.Driver - Generation :862
-[main] INFO ga.Driver - 566.4173350601126
-[main] INFO ga.Driver - Generation :863
-[main] INFO ga.Driver - 566.0031214977395
-[main] INFO ga.Driver - Generation :864
-[main] INFO ga.Driver - 565.0031214977395
-[main] INFO ga.Driver - Generation :865
-[main] INFO ga.Driver - 563.7670535202396
-[main] INFO ga.Driver - Generation :866
-[main] INFO ga.Driver - 563.7670535202396
-[main] INFO ga.Driver - Generation :867
-[main] INFO ga.Driver - 562.7670535202396
-[main] INFO ga.Driver - Generation :868
-[main] INFO ga.Driver - 562.5309855427399
-[main] INFO ga.Driver - Generation :869
-[main] INFO ga.Driver - 562.3528399578665
-[main] INFO ga.Driver - Generation :870
-[main] INFO ga.Driver - 560.1167719803668
-[main] INFO ga.Driver - Generation :871
-[main] INFO ga.Driver - 560.1167719803668
-[main] INFO ga.Driver - Generation :872
-[main] INFO ga.Driver - 560.1167719803668
-[main] INFO ga.Driver - Generation :873
-[main] INFO ga.Driver - 559.1167719803668
-[main] INFO ga.Driver - Generation :874
-[main] INFO ga.Driver - 558.9386263954935
-[main] INFO ga.Driver - Generation :875
-[main] INFO ga.Driver - 557.7091311276132
-[main] INFO ga.Driver - Generation :876
-[main] INFO ga.Driver - 557.1167719803668
-[main] INFO ga.Driver - Generation :877
-[main] INFO ga.Driver - 556.2949175652401
-[main] INFO ga.Driver - Generation :878
-[main] INFO ga.Driver - 556.1167719803668
-[main] INFO ga.Driver - Generation :879
-[main] INFO ga.Driver - 555.880704002867
-[main] INFO ga.Driver - Generation :880
-[main] INFO ga.Driver - 554.880704002867
-[main] INFO ga.Driver - Generation :881
-[main] INFO ga.Driver - 553.8807040028671
-[main] INFO ga.Driver - Generation :882
-[main] INFO ga.Driver - 551.6446360253672
-[main] INFO ga.Driver - Generation :883
-[main] INFO ga.Driver - 551.466490440494
-[main] INFO ga.Driver - Generation :884
-[main] INFO ga.Driver - 551.466490440494
-[main] INFO ga.Driver - Generation :885
-[main] INFO ga.Driver - 550.4664904404939
-[main] INFO ga.Driver - Generation :886
-[main] INFO ga.Driver - 550.0522768781208
-[main] INFO ga.Driver - Generation :887
-[main] INFO ga.Driver - 550.0522768781208
-[main] INFO ga.Driver - Generation :888
-[main] INFO ga.Driver - 549.6446360253672
-[main] INFO ga.Driver - Generation :889
-[main] INFO ga.Driver - 549.0522768781208
-[main] INFO ga.Driver - Generation :890
-[main] INFO ga.Driver - 548.4664904404939
-[main] INFO ga.Driver - Generation :891
-[main] INFO ga.Driver - 548.0522768781208
-[main] INFO ga.Driver - Generation :892
-[main] INFO ga.Driver - 547.0522768781208
-[main] INFO ga.Driver - Generation :893
-[main] INFO ga.Driver - 547.0522768781208
-[main] INFO ga.Driver - Generation :894
-[main] INFO ga.Driver - 546.230422462994
-[main] INFO ga.Driver - Generation :895
-[main] INFO ga.Driver - 546.0522768781208
-[main] INFO ga.Driver - Generation :896
-[main] INFO ga.Driver - 546.0522768781208
-[main] INFO ga.Driver - Generation :897
-[main] INFO ga.Driver - 545.0522768781208
-[main] INFO ga.Driver - Generation :898
-[main] INFO ga.Driver - 545.0522768781208
-[main] INFO ga.Driver - Generation :899
-[main] INFO ga.Driver - 544.6380633157477
-[main] INFO ga.Driver - Generation :900
-[main] INFO ga.Driver - 544.0522768781208
-[main] INFO ga.Driver - Generation :901
-[main] INFO ga.Driver - 543.230422462994
-[main] INFO ga.Driver - Generation :902
-[main] INFO ga.Driver - 543.6380633157477
-[main] INFO ga.Driver - Generation :903
-[main] INFO ga.Driver - 542.816208900621
-[main] INFO ga.Driver - Generation :904
-[main] INFO ga.Driver - 541.816208900621
-[main] INFO ga.Driver - Generation :905
-[main] INFO ga.Driver - 541.816208900621
-[main] INFO ga.Driver - Generation :906
-[main] INFO ga.Driver - 541.6380633157477
-[main] INFO ga.Driver - Generation :907
-[main] INFO ga.Driver - 540.816208900621
-[main] INFO ga.Driver - Generation :908
-[main] INFO ga.Driver - 540.816208900621
-[main] INFO ga.Driver - Generation :909
-[main] INFO ga.Driver - 539.816208900621
-[main] INFO ga.Driver - Generation :910
-[main] INFO ga.Driver - 539.4019953382478
-[main] INFO ga.Driver - Generation :911
-[main] INFO ga.Driver - 539.4019953382478
-[main] INFO ga.Driver - Generation :912
-[main] INFO ga.Driver - 538.4019953382478
-[main] INFO ga.Driver - Generation :913
-[main] INFO ga.Driver - 538.2238497533746
-[main] INFO ga.Driver - Generation :914
-[main] INFO ga.Driver - 537.816208900621
-[main] INFO ga.Driver - Generation :915
-[main] INFO ga.Driver - 536.816208900621
-[main] INFO ga.Driver - Generation :916
-[main] INFO ga.Driver - 537.4019953382478
-[main] INFO ga.Driver - Generation :917
-[main] INFO ga.Driver - 536.816208900621
-[main] INFO ga.Driver - Generation :918
-[main] INFO ga.Driver - 536.4019953382478
-[main] INFO ga.Driver - Generation :919
-[main] INFO ga.Driver - 535.816208900621
-[main] INFO ga.Driver - Generation :920
-[main] INFO ga.Driver - 535.4019953382478
-[main] INFO ga.Driver - Generation :921
-[main] INFO ga.Driver - 535.4019953382478
-[main] INFO ga.Driver - Generation :922
-[main] INFO ga.Driver - 534.9877817758747
-[main] INFO ga.Driver - Generation :923
-[main] INFO ga.Driver - 534.9877817758747
-[main] INFO ga.Driver - Generation :924
-[main] INFO ga.Driver - 534.9877817758747
-[main] INFO ga.Driver - Generation :925
-[main] INFO ga.Driver - 534.9877817758747
-[main] INFO ga.Driver - Generation :926
-[main] INFO ga.Driver - 534.9877817758747
-[main] INFO ga.Driver - Generation :927
-[main] INFO ga.Driver - 531.9877817758747
-[main] INFO ga.Driver - Generation :928
-[main] INFO ga.Driver - 531.9877817758747
-[main] INFO ga.Driver - Generation :929
-[main] INFO ga.Driver - 531.9877817758747
-[main] INFO ga.Driver - Generation :930
-[main] INFO ga.Driver - 531.9877817758747
-[main] INFO ga.Driver - Generation :931
-[main] INFO ga.Driver - 531.9877817758747
-[main] INFO ga.Driver - Generation :932
-[main] INFO ga.Driver - 531.5735682135016
-[main] INFO ga.Driver - Generation :933
-[main] INFO ga.Driver - 531.165927360748
-[main] INFO ga.Driver - Generation :934
-[main] INFO ga.Driver - 530.5735682135016
-[main] INFO ga.Driver - Generation :935
-[main] INFO ga.Driver - 530.1593546511285
-[main] INFO ga.Driver - Generation :936
-[main] INFO ga.Driver - 530.1593546511285
-[main] INFO ga.Driver - Generation :937
-[main] INFO ga.Driver - 529.7517137983749
-[main] INFO ga.Driver - Generation :938
-[main] INFO ga.Driver - 529.165927360748
-[main] INFO ga.Driver - Generation :939
-[main] INFO ga.Driver - 529.165927360748
-[main] INFO ga.Driver - Generation :940
-[main] INFO ga.Driver - 528.7517137983749
-[main] INFO ga.Driver - Generation :941
-[main] INFO ga.Driver - 527.9298593832483
-[main] INFO ga.Driver - Generation :942
-[main] INFO ga.Driver - 527.7517137983749
-[main] INFO ga.Driver - Generation :943
-[main] INFO ga.Driver - 526.7517137983749
-[main] INFO ga.Driver - Generation :944
-[main] INFO ga.Driver - 526.7517137983749
-[main] INFO ga.Driver - Generation :945
-[main] INFO ga.Driver - 526.5156458208752
-[main] INFO ga.Driver - Generation :946
-[main] INFO ga.Driver - 525.5156458208752
-[main] INFO ga.Driver - Generation :947
-[main] INFO ga.Driver - 524.9298593832483
-[main] INFO ga.Driver - Generation :948
-[main] INFO ga.Driver - 524.1014322585021
-[main] INFO ga.Driver - Generation :949
-[main] INFO ga.Driver - 523.1014322585021
-[main] INFO ga.Driver - Generation :950
-[main] INFO ga.Driver - 523.1014322585021
-[main] INFO ga.Driver - Generation :951
-[main] INFO ga.Driver - 522.5156458208752
-[main] INFO ga.Driver - Generation :952
-[main] INFO ga.Driver - 522.1014322585021
-[main] INFO ga.Driver - Generation :953
-[main] INFO ga.Driver - 521.1014322585021
-[main] INFO ga.Driver - Generation :954
-[main] INFO ga.Driver - 521.1014322585021
-[main] INFO ga.Driver - Generation :955
-[main] INFO ga.Driver - 521.1014322585021
-[main] INFO ga.Driver - Generation :956
-[main] INFO ga.Driver - 520.1014322585021
-[main] INFO ga.Driver - Generation :957
-[main] INFO ga.Driver - 519.1014322585021
-[main] INFO ga.Driver - Generation :958
-[main] INFO ga.Driver - 519.1014322585021
-[main] INFO ga.Driver - Generation :959
-[main] INFO ga.Driver - 518.687218696129
-[main] INFO ga.Driver - Generation :960
-[main] INFO ga.Driver - 518.687218696129
-[main] INFO ga.Driver - Generation :961
-[main] INFO ga.Driver - 517.687218696129
-[main] INFO ga.Driver - Generation :962
-[main] INFO ga.Driver - 516.687218696129
-[main] INFO ga.Driver - Generation :963
-[main] INFO ga.Driver - 516.1014322585021
-[main] INFO ga.Driver - Generation :964
-[main] INFO ga.Driver - 516.0948595488825
-[main] INFO ga.Driver - Generation :965
-[main] INFO ga.Driver - 515.687218696129
-[main] INFO ga.Driver - Generation :966
-[main] INFO ga.Driver - 515.687218696129
-[main] INFO ga.Driver - Generation :967
-[main] INFO ga.Driver - 514.6872186961289
-[main] INFO ga.Driver - Generation :968
-[main] INFO ga.Driver - 514.6872186961289
-[main] INFO ga.Driver - Generation :969
-[main] INFO ga.Driver - 514.101432258502
-[main] INFO ga.Driver - Generation :970
-[main] INFO ga.Driver - 513.6872186961289
-[main] INFO ga.Driver - Generation :971
-[main] INFO ga.Driver - 513.0948595488825
-[main] INFO ga.Driver - Generation :972
-[main] INFO ga.Driver - 512.0948595488825
-[main] INFO ga.Driver - Generation :973
-[main] INFO ga.Driver - 511.0948595488825
-[main] INFO ga.Driver - Generation :974
-[main] INFO ga.Driver - 510.6806459865094
-[main] INFO ga.Driver - Generation :975
-[main] INFO ga.Driver - 510.6806459865094
-[main] INFO ga.Driver - Generation :976
-[main] INFO ga.Driver - 509.6806459865094
-[main] INFO ga.Driver - Generation :977
-[main] INFO ga.Driver - 509.6806459865094
-[main] INFO ga.Driver - Generation :978
-[main] INFO ga.Driver - 509.6806459865094
-[main] INFO ga.Driver - Generation :979
-[main] INFO ga.Driver - 508.6806459865094
-[main] INFO ga.Driver - Generation :980
-[main] INFO ga.Driver - 507.6806459865094
-[main] INFO ga.Driver - Generation :981
-[main] INFO ga.Driver - 507.6806459865094
-[main] INFO ga.Driver - Generation :982
-[main] INFO ga.Driver - 507.6806459865094
-[main] INFO ga.Driver - Generation :983
-[main] INFO ga.Driver - 506.6806459865094
-[main] INFO ga.Driver - Generation :984
-[main] INFO ga.Driver - 505.6806459865094
-[main] INFO ga.Driver - Generation :985
-[main] INFO ga.Driver - 505.6806459865094
-[main] INFO ga.Driver - Generation :986
-[main] INFO ga.Driver - 504.6806459865094
-[main] INFO ga.Driver - Generation :987
-[main] INFO ga.Driver - 504.26643242413627
-[main] INFO ga.Driver - Generation :988
-[main] INFO ga.Driver - 503.6806459865094
-[main] INFO ga.Driver - Generation :989
-[main] INFO ga.Driver - 502.6806459865094
-[main] INFO ga.Driver - Generation :990
-[main] INFO ga.Driver - 502.6806459865094
-[main] INFO ga.Driver - Generation :991
-[main] INFO ga.Driver - 501.6806459865094
-[main] INFO ga.Driver - Generation :992
-[main] INFO ga.Driver - 501.26643242413627
-[main] INFO ga.Driver - Generation :993
-[main] INFO ga.Driver - 500.6806459865094
-[main] INFO ga.Driver - Generation :994
-[main] INFO ga.Driver - 500.26643242413627
-[main] INFO ga.Driver - Generation :995
-[main] INFO ga.Driver - 499.8587915713827
-[main] INFO ga.Driver - Generation :996
-[main] INFO ga.Driver - 498.8587915713827
-[main] INFO ga.Driver - Generation :997
-[main] INFO ga.Driver - 498.4445780090096
-[main] INFO ga.Driver - Generation :998
-[main] INFO ga.Driver - 498.1584327154679
-[main] INFO ga.Driver - Generation :999
-[main] INFO ga.Driver - 497.1584327154679
-[main] INFO ga.Driver - Generation :1000
-[main] INFO ga.Driver - 496.4445780090096
-[main] INFO ga.Driver - Generation :1001
-[main] INFO ga.Driver - 496.0303644466365
-[main] INFO ga.Driver - Generation :1002
-[main] INFO ga.Driver - 495.7442191530948
-[main] INFO ga.Driver - Generation :1003
-[main] INFO ga.Driver - 495.7442191530948
-[main] INFO ga.Driver - Generation :1004
-[main] INFO ga.Driver - 494.508151175595
-[main] INFO ga.Driver - Generation :1005
-[main] INFO ga.Driver - 494.508151175595
-[main] INFO ga.Driver - Generation :1006
-[main] INFO ga.Driver - 494.508151175595
-[main] INFO ga.Driver - Generation :1007
-[main] INFO ga.Driver - 493.55822849163695
-[main] INFO ga.Driver - Generation :1008
-[main] INFO ga.Driver - 493.508151175595
-[main] INFO ga.Driver - Generation :1009
-[main] INFO ga.Driver - 492.508151175595
-[main] INFO ga.Driver - Generation :1010
-[main] INFO ga.Driver - 491.8578696357221
-[main] INFO ga.Driver - Generation :1011
-[main] INFO ga.Driver - 490.8578696357221
-[main] INFO ga.Driver - Generation :1012
-[main] INFO ga.Driver - 490.8578696357221
-[main] INFO ga.Driver - Generation :1013
-[main] INFO ga.Driver - 490.27208319809523
-[main] INFO ga.Driver - Generation :1014
-[main] INFO ga.Driver - 489.27208319809523
-[main] INFO ga.Driver - Generation :1015
-[main] INFO ga.Driver - 488.62180165822235
-[main] INFO ga.Driver - Generation :1016
-[main] INFO ga.Driver - 488.443656073349
-[main] INFO ga.Driver - Generation :1017
-[main] INFO ga.Driver - 487.7999472430957
-[main] INFO ga.Driver - Generation :1018
-[main] INFO ga.Driver - 487.7999472430957
-[main] INFO ga.Driver - Generation :1019
-[main] INFO ga.Driver - 487.3857336807226
-[main] INFO ga.Driver - Generation :1020
-[main] INFO ga.Driver - 487.3857336807226
-[main] INFO ga.Driver - Generation :1021
-[main] INFO ga.Driver - 486.7999472430957
-[main] INFO ga.Driver - Generation :1022
-[main] INFO ga.Driver - 486.7999472430957
-[main] INFO ga.Driver - Generation :1023
-[main] INFO ga.Driver - 486.7999472430957
-[main] INFO ga.Driver - Generation :1024
-[main] INFO ga.Driver - 486.3857336807226
-[main] INFO ga.Driver - Generation :1025
-[main] INFO ga.Driver - 486.3857336807226
-[main] INFO ga.Driver - Generation :1026
-[main] INFO ga.Driver - 485.9715201183495
-[main] INFO ga.Driver - Generation :1027
-[main] INFO ga.Driver - 485.3857336807226
-[main] INFO ga.Driver - Generation :1028
-[main] INFO ga.Driver - 485.3857336807226
-[main] INFO ga.Driver - Generation :1029
-[main] INFO ga.Driver - 484.9715201183495
-[main] INFO ga.Driver - Generation :1030
-[main] INFO ga.Driver - 484.55730655597637
-[main] INFO ga.Driver - Generation :1031
-[main] INFO ga.Driver - 483.9715201183495
-[main] INFO ga.Driver - Generation :1032
-[main] INFO ga.Driver - 483.9715201183495
-[main] INFO ga.Driver - Generation :1033
-[main] INFO ga.Driver - 483.9715201183495
-[main] INFO ga.Driver - Generation :1034
-[main] INFO ga.Driver - 482.9715201183495
-[main] INFO ga.Driver - Generation :1035
-[main] INFO ga.Driver - 482.9715201183495
-[main] INFO ga.Driver - Generation :1036
-[main] INFO ga.Driver - 482.55730655597637
-[main] INFO ga.Driver - Generation :1037
-[main] INFO ga.Driver - 481.9715201183495
-[main] INFO ga.Driver - Generation :1038
-[main] INFO ga.Driver - 481.55730655597637
-[main] INFO ga.Driver - Generation :1039
-[main] INFO ga.Driver - 480.9715201183495
-[main] INFO ga.Driver - Generation :1040
-[main] INFO ga.Driver - 480.9715201183495
-[main] INFO ga.Driver - Generation :1041
-[main] INFO ga.Driver - 479.9715201183495
-[main] INFO ga.Driver - Generation :1042
-[main] INFO ga.Driver - 479.14309299360326
-[main] INFO ga.Driver - Generation :1043
-[main] INFO ga.Driver - 479.14309299360326
-[main] INFO ga.Driver - Generation :1044
-[main] INFO ga.Driver - 478.9715201183495
-[main] INFO ga.Driver - Generation :1045
-[main] INFO ga.Driver - 477.9715201183495
-[main] INFO ga.Driver - Generation :1046
-[main] INFO ga.Driver - 477.9715201183495
-[main] INFO ga.Driver - Generation :1047
-[main] INFO ga.Driver - 477.55730655597637
-[main] INFO ga.Driver - Generation :1048
-[main] INFO ga.Driver - 476.9715201183495
-[main] INFO ga.Driver - Generation :1049
-[main] INFO ga.Driver - 476.14309299360326
-[main] INFO ga.Driver - Generation :1050
-[main] INFO ga.Driver - 476.14309299360326
-[main] INFO ga.Driver - Generation :1051
-[main] INFO ga.Driver - 476.14309299360326
-[main] INFO ga.Driver - Generation :1052
-[main] INFO ga.Driver - 475.55730655597637
-[main] INFO ga.Driver - Generation :1053
-[main] INFO ga.Driver - 474.7288794312302
-[main] INFO ga.Driver - Generation :1054
-[main] INFO ga.Driver - 474.55730655597637
-[main] INFO ga.Driver - Generation :1055
-[main] INFO ga.Driver - 474.14309299360326
-[main] INFO ga.Driver - Generation :1056
-[main] INFO ga.Driver - 473.7288794312302
-[main] INFO ga.Driver - Generation :1057
-[main] INFO ga.Driver - 472.4928114537304
-[main] INFO ga.Driver - Generation :1058
-[main] INFO ga.Driver - 472.4928114537304
-[main] INFO ga.Driver - Generation :1059
-[main] INFO ga.Driver - 471.7288794312302
-[main] INFO ga.Driver - Generation :1060
-[main] INFO ga.Driver - 469.9070250161035
-[main] INFO ga.Driver - Generation :1061
-[main] INFO ga.Driver - 469.9070250161035
-[main] INFO ga.Driver - Generation :1062
-[main] INFO ga.Driver - 469.9070250161035
-[main] INFO ga.Driver - Generation :1063
-[main] INFO ga.Driver - 469.0851706009768
-[main] INFO ga.Driver - Generation :1064
-[main] INFO ga.Driver - 468.3146658688571
-[main] INFO ga.Driver - Generation :1065
-[main] INFO ga.Driver - 468.0851706009768
-[main] INFO ga.Driver - Generation :1066
-[main] INFO ga.Driver - 467.6709570386037
-[main] INFO ga.Driver - Generation :1067
-[main] INFO ga.Driver - 467.0851706009768
-[main] INFO ga.Driver - Generation :1068
-[main] INFO ga.Driver - 467.0851706009768
-[main] INFO ga.Driver - Generation :1069
-[main] INFO ga.Driver - 466.6709570386037
-[main] INFO ga.Driver - Generation :1070
-[main] INFO ga.Driver - 466.2567434762306
-[main] INFO ga.Driver - Generation :1071
-[main] INFO ga.Driver - 466.02067549873084
-[main] INFO ga.Driver - Generation :1072
-[main] INFO ga.Driver - 466.02067549873084
-[main] INFO ga.Driver - Generation :1073
-[main] INFO ga.Driver - 465.60646193635773
-[main] INFO ga.Driver - Generation :1074
-[main] INFO ga.Driver - 465.42831635148445
-[main] INFO ga.Driver - Generation :1075
-[main] INFO ga.Driver - 465.42831635148445
-[main] INFO ga.Driver - Generation :1076
-[main] INFO ga.Driver - 465.02067549873084
-[main] INFO ga.Driver - Generation :1077
-[main] INFO ga.Driver - 464.60646193635773
-[main] INFO ga.Driver - Generation :1078
-[main] INFO ga.Driver - 464.1922483739846
-[main] INFO ga.Driver - Generation :1079
-[main] INFO ga.Driver - 464.1922483739846
-[main] INFO ga.Driver - Generation :1080
-[main] INFO ga.Driver - 463.7780348116115
-[main] INFO ga.Driver - Generation :1081
-[main] INFO ga.Driver - 463.7780348116115
-[main] INFO ga.Driver - Generation :1082
-[main] INFO ga.Driver - 462.7780348116115
-[main] INFO ga.Driver - Generation :1083
-[main] INFO ga.Driver - 462.1922483739846
-[main] INFO ga.Driver - Generation :1084
-[main] INFO ga.Driver - 462.0141027891113
-[main] INFO ga.Driver - Generation :1085
-[main] INFO ga.Driver - 461.0141027891113
-[main] INFO ga.Driver - Generation :1086
-[main] INFO ga.Driver - 460.7780348116115
-[main] INFO ga.Driver - Generation :1087
-[main] INFO ga.Driver - 460.7780348116115
-[main] INFO ga.Driver - Generation :1088
-[main] INFO ga.Driver - 460.7780348116115
-[main] INFO ga.Driver - Generation :1089
-[main] INFO ga.Driver - 459.7780348116115
-[main] INFO ga.Driver - Generation :1090
-[main] INFO ga.Driver - 458.7780348116115
-[main] INFO ga.Driver - Generation :1091
-[main] INFO ga.Driver - 458.7780348116115
-[main] INFO ga.Driver - Generation :1092
-[main] INFO ga.Driver - 458.5419668341117
-[main] INFO ga.Driver - Generation :1093
-[main] INFO ga.Driver - 457.5419668341117
-[main] INFO ga.Driver - Generation :1094
-[main] INFO ga.Driver - 456.7780348116115
-[main] INFO ga.Driver - Generation :1095
-[main] INFO ga.Driver - 456.7780348116115
-[main] INFO ga.Driver - Generation :1096
-[main] INFO ga.Driver - 456.3058988566119
-[main] INFO ga.Driver - Generation :1097
-[main] INFO ga.Driver - 455.305898856612
-[main] INFO ga.Driver - Generation :1098
-[main] INFO ga.Driver - 454.89168529423887
-[main] INFO ga.Driver - Generation :1099
-[main] INFO ga.Driver - 454.89168529423887
-[main] INFO ga.Driver - Generation :1100
-[main] INFO ga.Driver - 454.47747173186576
-[main] INFO ga.Driver - Generation :1101
-[main] INFO ga.Driver - 453.89168529423887
-[main] INFO ga.Driver - Generation :1102
-[main] INFO ga.Driver - 453.89168529423887
-[main] INFO ga.Driver - Generation :1103
-[main] INFO ga.Driver - 453.47747173186576
-[main] INFO ga.Driver - Generation :1104
-[main] INFO ga.Driver - 453.47747173186576
-[main] INFO ga.Driver - Generation :1105
-[main] INFO ga.Driver - 453.47747173186576
-[main] INFO ga.Driver - Generation :1106
-[main] INFO ga.Driver - 453.06325816949266
-[main] INFO ga.Driver - Generation :1107
-[main] INFO ga.Driver - 452.47747173186576
-[main] INFO ga.Driver - Generation :1108
-[main] INFO ga.Driver - 452.47747173186576
-[main] INFO ga.Driver - Generation :1109
-[main] INFO ga.Driver - 452.06325816949266
-[main] INFO ga.Driver - Generation :1110
-[main] INFO ga.Driver - 451.06325816949266
-[main] INFO ga.Driver - Generation :1111
-[main] INFO ga.Driver - 450.64904460711955
-[main] INFO ga.Driver - Generation :1112
-[main] INFO ga.Driver - 450.64904460711955
-[main] INFO ga.Driver - Generation :1113
-[main] INFO ga.Driver - 450.06325816949266
-[main] INFO ga.Driver - Generation :1114
-[main] INFO ga.Driver - 449.64904460711955
-[main] INFO ga.Driver - Generation :1115
-[main] INFO ga.Driver - 448.82061748237334
-[main] INFO ga.Driver - Generation :1116
-[main] INFO ga.Driver - 448.82061748237334
-[main] INFO ga.Driver - Generation :1117
-[main] INFO ga.Driver - 448.82061748237334
-[main] INFO ga.Driver - Generation :1118
-[main] INFO ga.Driver - 448.64904460711955
-[main] INFO ga.Driver - Generation :1119
-[main] INFO ga.Driver - 448.40640392000023
-[main] INFO ga.Driver - Generation :1120
-[main] INFO ga.Driver - 448.23483104474644
-[main] INFO ga.Driver - Generation :1121
-[main] INFO ga.Driver - 447.9921903576271
-[main] INFO ga.Driver - Generation :1122
-[main] INFO ga.Driver - 447.40640392000023
-[main] INFO ga.Driver - Generation :1123
-[main] INFO ga.Driver - 447.40640392000023
-[main] INFO ga.Driver - Generation :1124
-[main] INFO ga.Driver - 446.9921903576271
-[main] INFO ga.Driver - Generation :1125
-[main] INFO ga.Driver - 446.40640392000023
-[main] INFO ga.Driver - Generation :1126
-[main] INFO ga.Driver - 445.9921903576271
-[main] INFO ga.Driver - Generation :1127
-[main] INFO ga.Driver - 445.82061748237334
-[main] INFO ga.Driver - Generation :1128
-[main] INFO ga.Driver - 444.9921903576271
-[main] INFO ga.Driver - Generation :1129
-[main] INFO ga.Driver - 444.9921903576271
-[main] INFO ga.Driver - Generation :1130
-[main] INFO ga.Driver - 444.9921903576271
-[main] INFO ga.Driver - Generation :1131
-[main] INFO ga.Driver - 444.577976795254
-[main] INFO ga.Driver - Generation :1132
-[main] INFO ga.Driver - 443.577976795254
-[main] INFO ga.Driver - Generation :1133
-[main] INFO ga.Driver - 443.577976795254
-[main] INFO ga.Driver - Generation :1134
-[main] INFO ga.Driver - 443.577976795254
-[main] INFO ga.Driver - Generation :1135
-[main] INFO ga.Driver - 442.577976795254
-[main] INFO ga.Driver - Generation :1136
-[main] INFO ga.Driver - 442.577976795254
-[main] INFO ga.Driver - Generation :1137
-[main] INFO ga.Driver - 442.577976795254
-[main] INFO ga.Driver - Generation :1138
-[main] INFO ga.Driver - 441.577976795254
-[main] INFO ga.Driver - Generation :1139
-[main] INFO ga.Driver - 441.577976795254
-[main] INFO ga.Driver - Generation :1140
-[main] INFO ga.Driver - 441.34190881775424
-[main] INFO ga.Driver - Generation :1141
-[main] INFO ga.Driver - 440.577976795254
-[main] INFO ga.Driver - Generation :1142
-[main] INFO ga.Driver - 440.34190881775424
-[main] INFO ga.Driver - Generation :1143
-[main] INFO ga.Driver - 439.34190881775424
-[main] INFO ga.Driver - Generation :1144
-[main] INFO ga.Driver - 438.34190881775424
-[main] INFO ga.Driver - Generation :1145
-[main] INFO ga.Driver - 437.92769525538114
-[main] INFO ga.Driver - Generation :1146
-[main] INFO ga.Driver - 437.92769525538114
-[main] INFO ga.Driver - Generation :1147
-[main] INFO ga.Driver - 437.34190881775424
-[main] INFO ga.Driver - Generation :1148
-[main] INFO ga.Driver - 436.92769525538114
-[main] INFO ga.Driver - Generation :1149
-[main] INFO ga.Driver - 435.92769525538114
-[main] INFO ga.Driver - Generation :1150
-[main] INFO ga.Driver - 435.92769525538114
-[main] INFO ga.Driver - Generation :1151
-[main] INFO ga.Driver - 435.1058408402544
-[main] INFO ga.Driver - Generation :1152
-[main] INFO ga.Driver - 434.92769525538114
-[main] INFO ga.Driver - Generation :1153
-[main] INFO ga.Driver - 434.92769525538114
-[main] INFO ga.Driver - Generation :1154
-[main] INFO ga.Driver - 434.1058408402544
-[main] INFO ga.Driver - Generation :1155
-[main] INFO ga.Driver - 433.1058408402544
-[main] INFO ga.Driver - Generation :1156
-[main] INFO ga.Driver - 433.1058408402544
-[main] INFO ga.Driver - Generation :1157
-[main] INFO ga.Driver - 432.69162727788137
-[main] INFO ga.Driver - Generation :1158
-[main] INFO ga.Driver - 432.28398642512775
-[main] INFO ga.Driver - Generation :1159
-[main] INFO ga.Driver - 431.8697728627547
-[main] INFO ga.Driver - Generation :1160
-[main] INFO ga.Driver - 431.8697728627547
-[main] INFO ga.Driver - Generation :1161
-[main] INFO ga.Driver - 431.69162727788137
-[main] INFO ga.Driver - Generation :1162
-[main] INFO ga.Driver - 430.86977286275464
-[main] INFO ga.Driver - Generation :1163
-[main] INFO ga.Driver - 430.86977286275464
-[main] INFO ga.Driver - Generation :1164
-[main] INFO ga.Driver - 430.86977286275464
-[main] INFO ga.Driver - Generation :1165
-[main] INFO ga.Driver - 429.86977286275464
-[main] INFO ga.Driver - Generation :1166
-[main] INFO ga.Driver - 429.86977286275464
-[main] INFO ga.Driver - Generation :1167
-[main] INFO ga.Driver - 429.86977286275464
-[main] INFO ga.Driver - Generation :1168
-[main] INFO ga.Driver - 428.86977286275464
-[main] INFO ga.Driver - Generation :1169
-[main] INFO ga.Driver - 427.86977286275464
-[main] INFO ga.Driver - Generation :1170
-[main] INFO ga.Driver - 427.86977286275464
-[main] INFO ga.Driver - Generation :1171
-[main] INFO ga.Driver - 427.86977286275464
-[main] INFO ga.Driver - Generation :1172
-[main] INFO ga.Driver - 426.86977286275464
-[main] INFO ga.Driver - Generation :1173
-[main] INFO ga.Driver - 426.86977286275464
-[main] INFO ga.Driver - Generation :1174
-[main] INFO ga.Driver - 426.45555930038154
-[main] INFO ga.Driver - Generation :1175
-[main] INFO ga.Driver - 425.86977286275464
-[main] INFO ga.Driver - Generation :1176
-[main] INFO ga.Driver - 426.45555930038154
-[main] INFO ga.Driver - Generation :1177
-[main] INFO ga.Driver - 425.45555930038154
-[main] INFO ga.Driver - Generation :1178
-[main] INFO ga.Driver - 425.45555930038154
-[main] INFO ga.Driver - Generation :1179
-[main] INFO ga.Driver - 425.45555930038154
-[main] INFO ga.Driver - Generation :1180
-[main] INFO ga.Driver - 425.04134573800843
-[main] INFO ga.Driver - Generation :1181
-[main] INFO ga.Driver - 424.45555930038154
-[main] INFO ga.Driver - Generation :1182
-[main] INFO ga.Driver - 424.04134573800843
-[main] INFO ga.Driver - Generation :1183
-[main] INFO ga.Driver - 423.45555930038154
-[main] INFO ga.Driver - Generation :1184
-[main] INFO ga.Driver - 423.04134573800843
-[main] INFO ga.Driver - Generation :1185
-[main] INFO ga.Driver - 422.04134573800843
-[main] INFO ga.Driver - Generation :1186
-[main] INFO ga.Driver - 422.04134573800843
-[main] INFO ga.Driver - Generation :1187
-[main] INFO ga.Driver - 421.04134573800843
-[main] INFO ga.Driver - Generation :1188
-[main] INFO ga.Driver - 421.04134573800843
-[main] INFO ga.Driver - Generation :1189
-[main] INFO ga.Driver - 420.6271321756353
-[main] INFO ga.Driver - Generation :1190
-[main] INFO ga.Driver - 420.45555930038154
-[main] INFO ga.Driver - Generation :1191
-[main] INFO ga.Driver - 419.6271321756353
-[main] INFO ga.Driver - Generation :1192
-[main] INFO ga.Driver - 419.04134573800843
-[main] INFO ga.Driver - Generation :1193
-[main] INFO ga.Driver - 419.04134573800843
-[main] INFO ga.Driver - Generation :1194
-[main] INFO ga.Driver - 418.6271321756353
-[main] INFO ga.Driver - Generation :1195
-[main] INFO ga.Driver - 418.6271321756353
-[main] INFO ga.Driver - Generation :1196
-[main] INFO ga.Driver - 418.04134573800843
-[main] INFO ga.Driver - Generation :1197
-[main] INFO ga.Driver - 417.04134573800843
-[main] INFO ga.Driver - Generation :1198
-[main] INFO ga.Driver - 417.5443696453371
-[main] INFO ga.Driver - Generation :1199
-[main] INFO ga.Driver - 416.6271321756353
-[main] INFO ga.Driver - Generation :1200
-[main] INFO ga.Driver - 416.3910641981355
-[main] INFO ga.Driver - Generation :1201
-[main] INFO ga.Driver - 415.6271321756353
-[main] INFO ga.Driver - Generation :1202
-[main] INFO ga.Driver - 415.39106419813555
-[main] INFO ga.Driver - Generation :1203
-[main] INFO ga.Driver - 414.39106419813555
-[main] INFO ga.Driver - Generation :1204
-[main] INFO ga.Driver - 413.1549962206358
-[main] INFO ga.Driver - Generation :1205
-[main] INFO ga.Driver - 413.1549962206358
-[main] INFO ga.Driver - Generation :1206
-[main] INFO ga.Driver - 413.07223369033755
-[main] INFO ga.Driver - Generation :1207
-[main] INFO ga.Driver - 412.1549962206358
-[main] INFO ga.Driver - Generation :1208
-[main] INFO ga.Driver - 411.1549962206358
-[main] INFO ga.Driver - Generation :1209
-[main] INFO ga.Driver - 410.7407826582627
-[main] INFO ga.Driver - Generation :1210
-[main] INFO ga.Driver - 410.65802012796445
-[main] INFO ga.Driver - Generation :1211
-[main] INFO ga.Driver - 409.7407826582627
-[main] INFO ga.Driver - Generation :1212
-[main] INFO ga.Driver - 409.07223369033755
-[main] INFO ga.Driver - Generation :1213
-[main] INFO ga.Driver - 409.07223369033755
-[main] INFO ga.Driver - Generation :1214
-[main] INFO ga.Driver - 407.8361657128378
-[main] INFO ga.Driver - Generation :1215
-[main] INFO ga.Driver - 407.65802012796445
-[main] INFO ga.Driver - Generation :1216
-[main] INFO ga.Driver - 406.65802012796445
-[main] INFO ga.Driver - Generation :1217
-[main] INFO ga.Driver - 406.65802012796445
-[main] INFO ga.Driver - Generation :1218
-[main] INFO ga.Driver - 406.65802012796445
-[main] INFO ga.Driver - Generation :1219
-[main] INFO ga.Driver - 405.65802012796445
-[main] INFO ga.Driver - Generation :1220
-[main] INFO ga.Driver - 404.65802012796445
-[main] INFO ga.Driver - Generation :1221
-[main] INFO ga.Driver - 404.65802012796445
-[main] INFO ga.Driver - Generation :1222
-[main] INFO ga.Driver - 403.65802012796445
-[main] INFO ga.Driver - Generation :1223
-[main] INFO ga.Driver - 403.65802012796445
-[main] INFO ga.Driver - Generation :1224
-[main] INFO ga.Driver - 403.65802012796445
-[main] INFO ga.Driver - Generation :1225
-[main] INFO ga.Driver - 402.8361657128378
-[main] INFO ga.Driver - Generation :1226
-[main] INFO ga.Driver - 402.65802012796445
-[main] INFO ga.Driver - Generation :1227
-[main] INFO ga.Driver - 401.918928243136
-[main] INFO ga.Driver - Generation :1228
-[main] INFO ga.Driver - 401.8361657128378
-[main] INFO ga.Driver - Generation :1229
-[main] INFO ga.Driver - 401.8361657128378
-[main] INFO ga.Driver - Generation :1230
-[main] INFO ga.Driver - 400.8361657128378
-[main] INFO ga.Driver - Generation :1231
-[main] INFO ga.Driver - 400.8361657128378
-[main] INFO ga.Driver - Generation :1232
-[main] INFO ga.Driver - 400.4219521504647
-[main] INFO ga.Driver - Generation :1233
-[main] INFO ga.Driver - 400.4219521504647
-[main] INFO ga.Driver - Generation :1234
-[main] INFO ga.Driver - 400.00773858809157
-[main] INFO ga.Driver - Generation :1235
-[main] INFO ga.Driver - 400.00773858809157
-[main] INFO ga.Driver - Generation :1236
-[main] INFO ga.Driver - 400.00773858809157
-[main] INFO ga.Driver - Generation :1237
-[main] INFO ga.Driver - 399.4219521504647
-[main] INFO ga.Driver - Generation :1238
-[main] INFO ga.Driver - 399.4219521504647
-[main] INFO ga.Driver - Generation :1239
-[main] INFO ga.Driver - 399.4219521504647
-[main] INFO ga.Driver - Generation :1240
-[main] INFO ga.Driver - 399.00773858809157
-[main] INFO ga.Driver - Generation :1241
-[main] INFO ga.Driver - 398.4219521504647
-[main] INFO ga.Driver - Generation :1242
-[main] INFO ga.Driver - 397.59352502571846
-[main] INFO ga.Driver - Generation :1243
-[main] INFO ga.Driver - 397.59352502571846
-[main] INFO ga.Driver - Generation :1244
-[main] INFO ga.Driver - 397.59352502571846
-[main] INFO ga.Driver - Generation :1245
-[main] INFO ga.Driver - 396.59352502571846
-[main] INFO ga.Driver - Generation :1246
-[main] INFO ga.Driver - 396.59352502571846
-[main] INFO ga.Driver - Generation :1247
-[main] INFO ga.Driver - 396.17931146334536
-[main] INFO ga.Driver - Generation :1248
-[main] INFO ga.Driver - 396.17931146334536
-[main] INFO ga.Driver - Generation :1249
-[main] INFO ga.Driver - 396.17931146334536
-[main] INFO ga.Driver - Generation :1250
-[main] INFO ga.Driver - 395.86411741456504
-[main] INFO ga.Driver - Generation :1251
-[main] INFO ga.Driver - 395.59352502571846
-[main] INFO ga.Driver - Generation :1252
-[main] INFO ga.Driver - 395.17931146334536
-[main] INFO ga.Driver - Generation :1253
-[main] INFO ga.Driver - 394.76509790097225
-[main] INFO ga.Driver - Generation :1254
-[main] INFO ga.Driver - 394.76509790097225
-[main] INFO ga.Driver - Generation :1255
-[main] INFO ga.Driver - 394.17931146334536
-[main] INFO ga.Driver - Generation :1256
-[main] INFO ga.Driver - 393.76509790097225
-[main] INFO ga.Driver - Generation :1257
-[main] INFO ga.Driver - 393.35088433859914
-[main] INFO ga.Driver - Generation :1258
-[main] INFO ga.Driver - 393.17931146334536
-[main] INFO ga.Driver - Generation :1259
-[main] INFO ga.Driver - 392.35088433859914
-[main] INFO ga.Driver - Generation :1260
-[main] INFO ga.Driver - 392.35088433859914
-[main] INFO ga.Driver - Generation :1261
-[main] INFO ga.Driver - 392.25186482500635
-[main] INFO ga.Driver - Generation :1262
-[main] INFO ga.Driver - 391.35088433859914
-[main] INFO ga.Driver - Generation :1263
-[main] INFO ga.Driver - 391.25186482500635
-[main] INFO ga.Driver - Generation :1264
-[main] INFO ga.Driver - 390.76509790097225
-[main] INFO ga.Driver - Generation :1265
-[main] INFO ga.Driver - 390.66607838737946
-[main] INFO ga.Driver - Generation :1266
-[main] INFO ga.Driver - 390.25186482500635
-[main] INFO ga.Driver - Generation :1267
-[main] INFO ga.Driver - 390.25186482500635
-[main] INFO ga.Driver - Generation :1268
-[main] INFO ga.Driver - 388.35088433859914
-[main] INFO ga.Driver - Generation :1269
-[main] INFO ga.Driver - 388.25186482500635
-[main] INFO ga.Driver - Generation :1270
-[main] INFO ga.Driver - 387.83765126263324
-[main] INFO ga.Driver - Generation :1271
-[main] INFO ga.Driver - 387.25186482500635
-[main] INFO ga.Driver - Generation :1272
-[main] INFO ga.Driver - 386.93667077622604
-[main] INFO ga.Driver - Generation :1273
-[main] INFO ga.Driver - 386.2518648250063
-[main] INFO ga.Driver - Generation :1274
-[main] INFO ga.Driver - 386.0157968475065
-[main] INFO ga.Driver - Generation :1275
-[main] INFO ga.Driver - 385.5290299234724
-[main] INFO ga.Driver - Generation :1276
-[main] INFO ga.Driver - 385.1148163610993
-[main] INFO ga.Driver - Generation :1277
-[main] INFO ga.Driver - 385.0157968475065
-[main] INFO ga.Driver - Generation :1278
-[main] INFO ga.Driver - 385.0157968475065
-[main] INFO ga.Driver - Generation :1279
-[main] INFO ga.Driver - 384.0157968475065
-[main] INFO ga.Driver - Generation :1280
-[main] INFO ga.Driver - 383.0157968475065
-[main] INFO ga.Driver - Generation :1281
-[main] INFO ga.Driver - 383.0157968475065
-[main] INFO ga.Driver - Generation :1282
-[main] INFO ga.Driver - 382.6015832851334
-[main] INFO ga.Driver - Generation :1283
-[main] INFO ga.Driver - 382.0157968475065
-[main] INFO ga.Driver - Generation :1284
-[main] INFO ga.Driver - 382.0157968475065
-[main] INFO ga.Driver - Generation :1285
-[main] INFO ga.Driver - 381.6015832851334
-[main] INFO ga.Driver - Generation :1286
-[main] INFO ga.Driver - 381.6015832851334
-[main] INFO ga.Driver - Generation :1287
-[main] INFO ga.Driver - 381.6015832851334
-[main] INFO ga.Driver - Generation :1288
-[main] INFO ga.Driver - 381.6015832851334
-[main] INFO ga.Driver - Generation :1289
-[main] INFO ga.Driver - 380.6015832851334
-[main] INFO ga.Driver - Generation :1290
-[main] INFO ga.Driver - 380.6015832851334
-[main] INFO ga.Driver - Generation :1291
-[main] INFO ga.Driver - 380.6015832851334
-[main] INFO ga.Driver - Generation :1292
-[main] INFO ga.Driver - 379.6015832851334
-[main] INFO ga.Driver - Generation :1293
-[main] INFO ga.Driver - 379.6015832851334
-[main] INFO ga.Driver - Generation :1294
-[main] INFO ga.Driver - 378.6015832851334
-[main] INFO ga.Driver - Generation :1295
-[main] INFO ga.Driver - 378.6015832851334
-[main] INFO ga.Driver - Generation :1296
-[main] INFO ga.Driver - 378.36551530763364
-[main] INFO ga.Driver - Generation :1297
-[main] INFO ga.Driver - 377.6015832851335
-[main] INFO ga.Driver - Generation :1298
-[main] INFO ga.Driver - 377.6015832851334
-[main] INFO ga.Driver - Generation :1299
-[main] INFO ga.Driver - 377.6015832851334
-[main] INFO ga.Driver - Generation :1300
-[main] INFO ga.Driver - 376.6015832851335
-[main] INFO ga.Driver - Generation :1301
-[main] INFO ga.Driver - 376.6015832851335
-[main] INFO ga.Driver - Generation :1302
-[main] INFO ga.Driver - 376.36551530763364
-[main] INFO ga.Driver - Generation :1303
-[main] INFO ga.Driver - 376.18736972276037
-[main] INFO ga.Driver - Generation :1304
-[main] INFO ga.Driver - 375.95130174526054
-[main] INFO ga.Driver - Generation :1305
-[main] INFO ga.Driver - 375.95130174526054
-[main] INFO ga.Driver - Generation :1306
-[main] INFO ga.Driver - 375.95130174526054
-[main] INFO ga.Driver - Generation :1307
-[main] INFO ga.Driver - 375.53708818288743
-[main] INFO ga.Driver - Generation :1308
-[main] INFO ga.Driver - 374.95130174526054
-[main] INFO ga.Driver - Generation :1309
-[main] INFO ga.Driver - 374.77315616038726
-[main] INFO ga.Driver - Generation :1310
-[main] INFO ga.Driver - 373.95130174526054
-[main] INFO ga.Driver - Generation :1311
-[main] INFO ga.Driver - 373.95130174526054
-[main] INFO ga.Driver - Generation :1312
-[main] INFO ga.Driver - 372.95130174526054
-[main] INFO ga.Driver - Generation :1313
-[main] INFO ga.Driver - 372.95130174526054
-[main] INFO ga.Driver - Generation :1314
-[main] INFO ga.Driver - 371.53708818288743
-[main] INFO ga.Driver - Generation :1315
-[main] INFO ga.Driver - 371.53708818288743
-[main] INFO ga.Driver - Generation :1316
-[main] INFO ga.Driver - 371.53708818288743
-[main] INFO ga.Driver - Generation :1317
-[main] INFO ga.Driver - 371.1228746205143
-[main] INFO ga.Driver - Generation :1318
-[main] INFO ga.Driver - 370.95130174526054
-[main] INFO ga.Driver - Generation :1319
-[main] INFO ga.Driver - 370.53708818288743
-[main] INFO ga.Driver - Generation :1320
-[main] INFO ga.Driver - 370.1228746205143
-[main] INFO ga.Driver - Generation :1321
-[main] INFO ga.Driver - 369.77315616038726
-[main] INFO ga.Driver - Generation :1322
-[main] INFO ga.Driver - 369.1228746205143
-[main] INFO ga.Driver - Generation :1323
-[main] INFO ga.Driver - 368.7086610581412
-[main] INFO ga.Driver - Generation :1324
-[main] INFO ga.Driver - 368.1228746205143
-[main] INFO ga.Driver - Generation :1325
-[main] INFO ga.Driver - 367.7086610581412
-[main] INFO ga.Driver - Generation :1326
-[main] INFO ga.Driver - 366.7086610581412
-[main] INFO ga.Driver - Generation :1327
-[main] INFO ga.Driver - 366.7086610581412
-[main] INFO ga.Driver - Generation :1328
-[main] INFO ga.Driver - 365.7086610581412
-[main] INFO ga.Driver - Generation :1329
-[main] INFO ga.Driver - 365.7086610581412
-[main] INFO ga.Driver - Generation :1330
-[main] INFO ga.Driver - 364.7086610581412
-[main] INFO ga.Driver - Generation :1331
-[main] INFO ga.Driver - 364.2944474957681
-[main] INFO ga.Driver - Generation :1332
-[main] INFO ga.Driver - 364.2944474957681
-[main] INFO ga.Driver - Generation :1333
-[main] INFO ga.Driver - 363.7086610581412
-[main] INFO ga.Driver - Generation :1334
-[main] INFO ga.Driver - 363.2944474957681
-[main] INFO ga.Driver - Generation :1335
-[main] INFO ga.Driver - 363.2944474957681
-[main] INFO ga.Driver - Generation :1336
-[main] INFO ga.Driver - 363.2944474957681
-[main] INFO ga.Driver - Generation :1337
-[main] INFO ga.Driver - 362.880233933395
-[main] INFO ga.Driver - Generation :1338
-[main] INFO ga.Driver - 362.880233933395
-[main] INFO ga.Driver - Generation :1339
-[main] INFO ga.Driver - 362.4660203710219
-[main] INFO ga.Driver - Generation :1340
-[main] INFO ga.Driver - 362.4660203710219
-[main] INFO ga.Driver - Generation :1341
-[main] INFO ga.Driver - 361.64416595589523
-[main] INFO ga.Driver - Generation :1342
-[main] INFO ga.Driver - 361.64416595589523
-[main] INFO ga.Driver - Generation :1343
-[main] INFO ga.Driver - 361.2299523935221
-[main] INFO ga.Driver - Generation :1344
-[main] INFO ga.Driver - 361.2299523935221
-[main] INFO ga.Driver - Generation :1345
-[main] INFO ga.Driver - 361.2299523935221
-[main] INFO ga.Driver - Generation :1346
-[main] INFO ga.Driver - 360.2299523935221
-[main] INFO ga.Driver - Generation :1347
-[main] INFO ga.Driver - 360.2299523935221
-[main] INFO ga.Driver - Generation :1348
-[main] INFO ga.Driver - 360.2299523935221
-[main] INFO ga.Driver - Generation :1349
-[main] INFO ga.Driver - 359.2299523935221
-[main] INFO ga.Driver - Generation :1350
-[main] INFO ga.Driver - 359.2299523935221
-[main] INFO ga.Driver - Generation :1351
-[main] INFO ga.Driver - 358.815738831149
-[main] INFO ga.Driver - Generation :1352
-[main] INFO ga.Driver - 358.2299523935221
-[main] INFO ga.Driver - Generation :1353
-[main] INFO ga.Driver - 357.2299523935221
-[main] INFO ga.Driver - Generation :1354
-[main] INFO ga.Driver - 357.2299523935221
-[main] INFO ga.Driver - Generation :1355
-[main] INFO ga.Driver - 357.2299523935221
-[main] INFO ga.Driver - Generation :1356
-[main] INFO ga.Driver - 356.815738831149
-[main] INFO ga.Driver - Generation :1357
-[main] INFO ga.Driver - 356.815738831149
-[main] INFO ga.Driver - Generation :1358
-[main] INFO ga.Driver - 356.2299523935221
-[main] INFO ga.Driver - Generation :1359
-[main] INFO ga.Driver - 355.815738831149
-[main] INFO ga.Driver - Generation :1360
-[main] INFO ga.Driver - 355.815738831149
-[main] INFO ga.Driver - Generation :1361
-[main] INFO ga.Driver - 354.815738831149
-[main] INFO ga.Driver - Generation :1362
-[main] INFO ga.Driver - 354.815738831149
-[main] INFO ga.Driver - Generation :1363
-[main] INFO ga.Driver - 354.815738831149
-[main] INFO ga.Driver - Generation :1364
-[main] INFO ga.Driver - 354.815738831149
-[main] INFO ga.Driver - Generation :1365
-[main] INFO ga.Driver - 353.815738831149
-[main] INFO ga.Driver - Generation :1366
-[main] INFO ga.Driver - 353.815738831149
-[main] INFO ga.Driver - Generation :1367
-[main] INFO ga.Driver - 353.815738831149
-[main] INFO ga.Driver - Generation :1368
-[main] INFO ga.Driver - 353.40152526877597
-[main] INFO ga.Driver - Generation :1369
-[main] INFO ga.Driver - 353.40152526877597
-[main] INFO ga.Driver - Generation :1370
-[main] INFO ga.Driver - 353.40152526877597
-[main] INFO ga.Driver - Generation :1371
-[main] INFO ga.Driver - 352.40152526877597
-[main] INFO ga.Driver - Generation :1372
-[main] INFO ga.Driver - 352.40152526877597
-[main] INFO ga.Driver - Generation :1373
-[main] INFO ga.Driver - 352.40152526877597
-[main] INFO ga.Driver - Generation :1374
-[main] INFO ga.Driver - 352.40152526877597
-[main] INFO ga.Driver - Generation :1375
-[main] INFO ga.Driver - 351.98731170640286
-[main] INFO ga.Driver - Generation :1376
-[main] INFO ga.Driver - 351.98731170640286
-[main] INFO ga.Driver - Generation :1377
-[main] INFO ga.Driver - 351.57967085364925
-[main] INFO ga.Driver - Generation :1378
-[main] INFO ga.Driver - 351.1654572912762
-[main] INFO ga.Driver - Generation :1379
-[main] INFO ga.Driver - 351.1654572912762
-[main] INFO ga.Driver - Generation :1380
-[main] INFO ga.Driver - 350.33703016653
-[main] INFO ga.Driver - Generation :1381
-[main] INFO ga.Driver - 350.33703016653
-[main] INFO ga.Driver - Generation :1382
-[main] INFO ga.Driver - 350.33703016653
-[main] INFO ga.Driver - Generation :1383
-[main] INFO ga.Driver - 350.33703016653
-[main] INFO ga.Driver - Generation :1384
-[main] INFO ga.Driver - 349.7512437289031
-[main] INFO ga.Driver - Generation :1385
-[main] INFO ga.Driver - 349.33703016653
-[main] INFO ga.Driver - Generation :1386
-[main] INFO ga.Driver - 348.92281660415694
-[main] INFO ga.Driver - Generation :1387
-[main] INFO ga.Driver - 348.33703016653
-[main] INFO ga.Driver - Generation :1388
-[main] INFO ga.Driver - 348.33703016653
-[main] INFO ga.Driver - Generation :1389
-[main] INFO ga.Driver - 347.50860304178383
-[main] INFO ga.Driver - Generation :1390
-[main] INFO ga.Driver - 346.92281660415694
-[main] INFO ga.Driver - Generation :1391
-[main] INFO ga.Driver - 346.50860304178383
-[main] INFO ga.Driver - Generation :1392
-[main] INFO ga.Driver - 346.50860304178383
-[main] INFO ga.Driver - Generation :1393
-[main] INFO ga.Driver - 345.92281660415694
-[main] INFO ga.Driver - Generation :1394
-[main] INFO ga.Driver - 345.50860304178383
-[main] INFO ga.Driver - Generation :1395
-[main] INFO ga.Driver - 345.50860304178383
-[main] INFO ga.Driver - Generation :1396
-[main] INFO ga.Driver - 345.50860304178383
-[main] INFO ga.Driver - Generation :1397
-[main] INFO ga.Driver - 345.0943894794107
-[main] INFO ga.Driver - Generation :1398
-[main] INFO ga.Driver - 344.50860304178383
-[main] INFO ga.Driver - Generation :1399
-[main] INFO ga.Driver - 344.0943894794107
-[main] INFO ga.Driver - Generation :1400
-[main] INFO ga.Driver - 343.6801759170376
-[main] INFO ga.Driver - Generation :1401
-[main] INFO ga.Driver - 343.50860304178383
-[main] INFO ga.Driver - Generation :1402
-[main] INFO ga.Driver - 343.0943894794107
-[main] INFO ga.Driver - Generation :1403
-[main] INFO ga.Driver - 343.0943894794107
-[main] INFO ga.Driver - Generation :1404
-[main] INFO ga.Driver - 342.0943894794107
-[main] INFO ga.Driver - Generation :1405
-[main] INFO ga.Driver - 342.0943894794107
-[main] INFO ga.Driver - Generation :1406
-[main] INFO ga.Driver - 342.0943894794107
-[main] INFO ga.Driver - Generation :1407
-[main] INFO ga.Driver - 341.09438947941067
-[main] INFO ga.Driver - Generation :1408
-[main] INFO ga.Driver - 341.09438947941067
-[main] INFO ga.Driver - Generation :1409
-[main] INFO ga.Driver - 340.68017591703756
-[main] INFO ga.Driver - Generation :1410
-[main] INFO ga.Driver - 340.09438947941067
-[main] INFO ga.Driver - Generation :1411
-[main] INFO ga.Driver - 339.68017591703756
-[main] INFO ga.Driver - Generation :1412
-[main] INFO ga.Driver - 339.68017591703756
-[main] INFO ga.Driver - Generation :1413
-[main] INFO ga.Driver - 339.26596235466445
-[main] INFO ga.Driver - Generation :1414
-[main] INFO ga.Driver - 339.26596235466445
-[main] INFO ga.Driver - Generation :1415
-[main] INFO ga.Driver - 338.6801759170376
-[main] INFO ga.Driver - Generation :1416
-[main] INFO ga.Driver - 338.2659623546645
-[main] INFO ga.Driver - Generation :1417
-[main] INFO ga.Driver - 338.2659623546645
-[main] INFO ga.Driver - Generation :1418
-[main] INFO ga.Driver - 338.2659623546645
-[main] INFO ga.Driver - Generation :1419
-[main] INFO ga.Driver - 337.9414070343277
-[main] INFO ga.Driver - Generation :1420
-[main] INFO ga.Driver - 337.5271934719546
-[main] INFO ga.Driver - Generation :1421
-[main] INFO ga.Driver - 336.85174879229135
-[main] INFO ga.Driver - Generation :1422
-[main] INFO ga.Driver - 336.85174879229135
-[main] INFO ga.Driver - Generation :1423
-[main] INFO ga.Driver - 336.2659623546645
-[main] INFO ga.Driver - Generation :1424
-[main] INFO ga.Driver - 335.85174879229135
-[main] INFO ga.Driver - Generation :1425
-[main] INFO ga.Driver - 334.8517487922914
-[main] INFO ga.Driver - Generation :1426
-[main] INFO ga.Driver - 334.5271934719546
-[main] INFO ga.Driver - Generation :1427
-[main] INFO ga.Driver - 333.8517487922914
-[main] INFO ga.Driver - Generation :1428
-[main] INFO ga.Driver - 333.8517487922914
-[main] INFO ga.Driver - Generation :1429
-[main] INFO ga.Driver - 333.5271934719546
-[main] INFO ga.Driver - Generation :1430
-[main] INFO ga.Driver - 332.5271934719546
-[main] INFO ga.Driver - Generation :1431
-[main] INFO ga.Driver - 332.5271934719546
-[main] INFO ga.Driver - Generation :1432
-[main] INFO ga.Driver - 332.5271934719546
-[main] INFO ga.Driver - Generation :1433
-[main] INFO ga.Driver - 332.1129799095815
-[main] INFO ga.Driver - Generation :1434
-[main] INFO ga.Driver - 331.5271934719546
-[main] INFO ga.Driver - Generation :1435
-[main] INFO ga.Driver - 331.5271934719546
-[main] INFO ga.Driver - Generation :1436
-[main] INFO ga.Driver - 331.1129799095815
-[main] INFO ga.Driver - Generation :1437
-[main] INFO ga.Driver - 331.1129799095815
-[main] INFO ga.Driver - Generation :1438
-[main] INFO ga.Driver - 331.1129799095815
-[main] INFO ga.Driver - Generation :1439
-[main] INFO ga.Driver - 330.1129799095815
-[main] INFO ga.Driver - Generation :1440
-[main] INFO ga.Driver - 330.1129799095815
-[main] INFO ga.Driver - Generation :1441
-[main] INFO ga.Driver - 330.1129799095815
-[main] INFO ga.Driver - Generation :1442
-[main] INFO ga.Driver - 330.1129799095815
-[main] INFO ga.Driver - Generation :1443
-[main] INFO ga.Driver - 330.1129799095815
-[main] INFO ga.Driver - Generation :1444
-[main] INFO ga.Driver - 329.1129799095815
-[main] INFO ga.Driver - Generation :1445
-[main] INFO ga.Driver - 328.5271934719546
-[main] INFO ga.Driver - Generation :1446
-[main] INFO ga.Driver - 328.1129799095815
-[main] INFO ga.Driver - Generation :1447
-[main] INFO ga.Driver - 328.1129799095815
-[main] INFO ga.Driver - Generation :1448
-[main] INFO ga.Driver - 328.1129799095815
-[main] INFO ga.Driver - Generation :1449
-[main] INFO ga.Driver - 327.1129799095815
-[main] INFO ga.Driver - Generation :1450
-[main] INFO ga.Driver - 327.1129799095815
-[main] INFO ga.Driver - Generation :1451
-[main] INFO ga.Driver - 327.1129799095815
-[main] INFO ga.Driver - Generation :1452
-[main] INFO ga.Driver - 327.1129799095815
-[main] INFO ga.Driver - Generation :1453
-[main] INFO ga.Driver - 327.1129799095815
-[main] INFO ga.Driver - Generation :1454
-[main] INFO ga.Driver - 326.1129799095815
-[main] INFO ga.Driver - Generation :1455
-[main] INFO ga.Driver - 326.1129799095815
-[main] INFO ga.Driver - Generation :1456
-[main] INFO ga.Driver - 326.1129799095815
-[main] INFO ga.Driver - Generation :1457
-[main] INFO ga.Driver - 326.0302173792833
-[main] INFO ga.Driver - Generation :1458
-[main] INFO ga.Driver - 326.0302173792833
-[main] INFO ga.Driver - Generation :1459
-[main] INFO ga.Driver - 325.1129799095815
-[main] INFO ga.Driver - Generation :1460
-[main] INFO ga.Driver - 325.1129799095815
-[main] INFO ga.Driver - Generation :1461
-[main] INFO ga.Driver - 325.0302173792833
-[main] INFO ga.Driver - Generation :1462
-[main] INFO ga.Driver - 324.6987663472084
-[main] INFO ga.Driver - Generation :1463
-[main] INFO ga.Driver - 324.1129799095815
-[main] INFO ga.Driver - Generation :1464
-[main] INFO ga.Driver - 324.0302173792833
-[main] INFO ga.Driver - Generation :1465
-[main] INFO ga.Driver - 323.61600381691017
-[main] INFO ga.Driver - Generation :1466
-[main] INFO ga.Driver - 323.61600381691017
-[main] INFO ga.Driver - Generation :1467
-[main] INFO ga.Driver - 323.61600381691017
-[main] INFO ga.Driver - Generation :1468
-[main] INFO ga.Driver - 323.20179025453706
-[main] INFO ga.Driver - Generation :1469
-[main] INFO ga.Driver - 322.61600381691017
-[main] INFO ga.Driver - Generation :1470
-[main] INFO ga.Driver - 322.20179025453706
-[main] INFO ga.Driver - Generation :1471
-[main] INFO ga.Driver - 321.78757669216395
-[main] INFO ga.Driver - Generation :1472
-[main] INFO ga.Driver - 321.78757669216395
-[main] INFO ga.Driver - Generation :1473
-[main] INFO ga.Driver - 320.78757669216395
-[main] INFO ga.Driver - Generation :1474
-[main] INFO ga.Driver - 320.20179025453706
-[main] INFO ga.Driver - Generation :1475
-[main] INFO ga.Driver - 319.78757669216395
-[main] INFO ga.Driver - Generation :1476
-[main] INFO ga.Driver - 319.20179025453706
-[main] INFO ga.Driver - Generation :1477
-[main] INFO ga.Driver - 319.20179025453706
-[main] INFO ga.Driver - Generation :1478
-[main] INFO ga.Driver - 318.78757669216395
-[main] INFO ga.Driver - Generation :1479
-[main] INFO ga.Driver - 318.78757669216395
-[main] INFO ga.Driver - Generation :1480
-[main] INFO ga.Driver - 318.78757669216395
-[main] INFO ga.Driver - Generation :1481
-[main] INFO ga.Driver - 317.78757669216395
-[main] INFO ga.Driver - Generation :1482
-[main] INFO ga.Driver - 317.78757669216395
-[main] INFO ga.Driver - Generation :1483
-[main] INFO ga.Driver - 317.78757669216395
-[main] INFO ga.Driver - Generation :1484
-[main] INFO ga.Driver - 317.78757669216395
-[main] INFO ga.Driver - Generation :1485
-[main] INFO ga.Driver - 316.78757669216395
-[main] INFO ga.Driver - Generation :1486
-[main] INFO ga.Driver - 316.78757669216395
-[main] INFO ga.Driver - Generation :1487
-[main] INFO ga.Driver - 316.78757669216395
-[main] INFO ga.Driver - Generation :1488
-[main] INFO ga.Driver - 315.78757669216395
-[main] INFO ga.Driver - Generation :1489
-[main] INFO ga.Driver - 315.5515087146641
-[main] INFO ga.Driver - Generation :1490
-[main] INFO ga.Driver - 315.5515087146641
-[main] INFO ga.Driver - Generation :1491
-[main] INFO ga.Driver - 314.5515087146641
-[main] INFO ga.Driver - Generation :1492
-[main] INFO ga.Driver - 314.5515087146641
-[main] INFO ga.Driver - Generation :1493
-[main] INFO ga.Driver - 313.5515087146641
-[main] INFO ga.Driver - Generation :1494
-[main] INFO ga.Driver - 313.5515087146641
-[main] INFO ga.Driver - Generation :1495
-[main] INFO ga.Driver - 313.5515087146641
-[main] INFO ga.Driver - Generation :1496
-[main] INFO ga.Driver - 312.5515087146641
-[main] INFO ga.Driver - Generation :1497
-[main] INFO ga.Driver - 312.5515087146641
-[main] INFO ga.Driver - Generation :1498
-[main] INFO ga.Driver - 311.5515087146641
-[main] INFO ga.Driver - Generation :1499
-[main] INFO ga.Driver - 311.5515087146641
-[main] INFO ga.Driver - Generation :1500
-[main] INFO ga.Driver - 311.5515087146641
-[main] INFO ga.Driver - Generation :1501
-[main] INFO ga.Driver - 311.137295152291
-[main] INFO ga.Driver - Generation :1502
-[main] INFO ga.Driver - 311.137295152291
-[main] INFO ga.Driver - Generation :1503
-[main] INFO ga.Driver - 311.137295152291
-[main] INFO ga.Driver - Generation :1504
-[main] INFO ga.Driver - 310.5515087146641
-[main] INFO ga.Driver - Generation :1505
-[main] INFO ga.Driver - 310.137295152291
-[main] INFO ga.Driver - Generation :1506
-[main] INFO ga.Driver - 310.137295152291
-[main] INFO ga.Driver - Generation :1507
-[main] INFO ga.Driver - 310.137295152291
-[main] INFO ga.Driver - Generation :1508
-[main] INFO ga.Driver - 310.137295152291
-[main] INFO ga.Driver - Generation :1509
-[main] INFO ga.Driver - 310.137295152291
-[main] INFO ga.Driver - Generation :1510
-[main] INFO ga.Driver - 309.137295152291
-[main] INFO ga.Driver - Generation :1511
-[main] INFO ga.Driver - 309.137295152291
-[main] INFO ga.Driver - Generation :1512
-[main] INFO ga.Driver - 308.137295152291
-[main] INFO ga.Driver - Generation :1513
-[main] INFO ga.Driver - 309.137295152291
-[main] INFO ga.Driver - Generation :1514
-[main] INFO ga.Driver - 308.137295152291
-[main] INFO ga.Driver - Generation :1515
-[main] INFO ga.Driver - 308.137295152291
-[main] INFO ga.Driver - Generation :1516
-[main] INFO ga.Driver - 308.137295152291
-[main] INFO ga.Driver - Generation :1517
-[main] INFO ga.Driver - 307.137295152291
-[main] INFO ga.Driver - Generation :1518
-[main] INFO ga.Driver - 307.137295152291
-[main] INFO ga.Driver - Generation :1519
-[main] INFO ga.Driver - 306.137295152291
-[main] INFO ga.Driver - Generation :1520
-[main] INFO ga.Driver - 306.137295152291
-[main] INFO ga.Driver - Generation :1521
-[main] INFO ga.Driver - 306.137295152291
-[main] INFO ga.Driver - Generation :1522
-[main] INFO ga.Driver - 304.7230815899179
-[main] INFO ga.Driver - Generation :1523
-[main] INFO ga.Driver - 304.7230815899179
-[main] INFO ga.Driver - Generation :1524
-[main] INFO ga.Driver - 304.7230815899179
-[main] INFO ga.Driver - Generation :1525
-[main] INFO ga.Driver - 303.7230815899179
-[main] INFO ga.Driver - Generation :1526
-[main] INFO ga.Driver - 303.7230815899179
-[main] INFO ga.Driver - Generation :1527
-[main] INFO ga.Driver - 303.3088680275448
-[main] INFO ga.Driver - Generation :1528
-[main] INFO ga.Driver - 302.7230815899179
-[main] INFO ga.Driver - Generation :1529
-[main] INFO ga.Driver - 302.7230815899179
-[main] INFO ga.Driver - Generation :1530
-[main] INFO ga.Driver - 302.7230815899179
-[main] INFO ga.Driver - Generation :1531
-[main] INFO ga.Driver - 301.7230815899179
-[main] INFO ga.Driver - Generation :1532
-[main] INFO ga.Driver - 301.7230815899179
-[main] INFO ga.Driver - Generation :1533
-[main] INFO ga.Driver - 301.3088680275448
-[main] INFO ga.Driver - Generation :1534
-[main] INFO ga.Driver - 301.3088680275448
-[main] INFO ga.Driver - Generation :1535
-[main] INFO ga.Driver - 300.8946544651717
-[main] INFO ga.Driver - Generation :1536
-[main] INFO ga.Driver - 300.3088680275448
-[main] INFO ga.Driver - Generation :1537
-[main] INFO ga.Driver - 300.3088680275448
-[main] INFO ga.Driver - Generation :1538
-[main] INFO ga.Driver - 299.3088680275448
-[main] INFO ga.Driver - Generation :1539
-[main] INFO ga.Driver - 299.3088680275448
-[main] INFO ga.Driver - Generation :1540
-[main] INFO ga.Driver - 298.8946544651717
-[main] INFO ga.Driver - Generation :1541
-[main] INFO ga.Driver - 298.8946544651717
-[main] INFO ga.Driver - Generation :1542
-[main] INFO ga.Driver - 298.8946544651717
-[main] INFO ga.Driver - Generation :1543
-[main] INFO ga.Driver - 298.8946544651717
-[main] INFO ga.Driver - Generation :1544
-[main] INFO ga.Driver - 298.4804409027986
-[main] INFO ga.Driver - Generation :1545
-[main] INFO ga.Driver - 298.4804409027986
-[main] INFO ga.Driver - Generation :1546
-[main] INFO ga.Driver - 298.4804409027986
-[main] INFO ga.Driver - Generation :1547
-[main] INFO ga.Driver - 297.8946544651717
-[main] INFO ga.Driver - Generation :1548
-[main] INFO ga.Driver - 297.8946544651717
-[main] INFO ga.Driver - Generation :1549
-[main] INFO ga.Driver - 297.4804409027986
-[main] INFO ga.Driver - Generation :1550
-[main] INFO ga.Driver - 297.0662273404255
-[main] INFO ga.Driver - Generation :1551
-[main] INFO ga.Driver - 296.4804409027986
-[main] INFO ga.Driver - Generation :1552
-[main] INFO ga.Driver - 296.0662273404255
-[main] INFO ga.Driver - Generation :1553
-[main] INFO ga.Driver - 296.0662273404255
-[main] INFO ga.Driver - Generation :1554
-[main] INFO ga.Driver - 296.0662273404255
-[main] INFO ga.Driver - Generation :1555
-[main] INFO ga.Driver - 296.0662273404255
-[main] INFO ga.Driver - Generation :1556
-[main] INFO ga.Driver - 295.4804409027986
-[main] INFO ga.Driver - Generation :1557
-[main] INFO ga.Driver - 295.4804409027986
-[main] INFO ga.Driver - Generation :1558
-[main] INFO ga.Driver - 295.0662273404255
-[main] INFO ga.Driver - Generation :1559
-[main] INFO ga.Driver - 295.0662273404255
-[main] INFO ga.Driver - Generation :1560
-[main] INFO ga.Driver - 295.0662273404255
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4102
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4103
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4104
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4105
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4106
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4107
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4108
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4109
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4110
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4111
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4112
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4113
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4114
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4115
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4116
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4117
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4118
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4119
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4120
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4121
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4122
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4123
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4124
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4125
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4126
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4127
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4128
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4129
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4130
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4131
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4132
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4133
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4134
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4135
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4136
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4137
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4138
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4139
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4140
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4141
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4142
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4143
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4144
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4145
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4146
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4147
+[main] INFO ga.Driver - 75.0
+[main] INFO ga.Driver - Generation :4148
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4149
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4150
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4151
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4152
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4153
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4154
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4155
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4156
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4157
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4158
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4159
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4160
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4161
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4162
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4163
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4164
+[main] INFO ga.Driver - 74.0
+[main] INFO ga.Driver - Generation :4165
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4166
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4167
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4168
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4169
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4170
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4171
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4172
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4173
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4174
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4175
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4176
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4177
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4178
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4179
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4180
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4181
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4182
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4183
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4184
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4185
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4186
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4187
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4188
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4189
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4190
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4191
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4192
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4193
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4194
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4195
+[main] INFO ga.Driver - 73.0
+[main] INFO ga.Driver - Generation :4196
+[main] INFO ga.Driver - 72.0
+[main] INFO ga.Driver - Generation :4197
+[main] INFO ga.Driver - 72.0
+[main] INFO ga.Driver - Generation :4198
+[main] INFO ga.Driver - 72.0
+[main] INFO ga.Driver - Generation :4199
+[main] INFO ga.Driver - 72.0
+[main] INFO ga.Driver - Generation :4200
+[main] INFO ga.Driver - 72.0
+[main] INFO ga.Driver - Generation :4201
+[main] INFO ga.Driver - 72.0
+[main] INFO ga.Driver - Generation :4202
+[main] INFO ga.Driver - 72.0
+[main] INFO ga.Driver - Generation :4203
+[main] INFO ga.Driver - 72.0
+[main] INFO ga.Driver - Generation :4204
+[main] INFO ga.Driver - 72.0
+[main] INFO ga.Driver - Generation :4205
+[main] INFO ga.Driver - 72.0
+[main] INFO ga.Driver - Generation :4206
+[main] INFO ga.Driver - 72.0
+[main] INFO ga.Driver - Generation :4207
+[main] INFO ga.Driver - 72.0
+[main] INFO ga.Driver - Generation :4208
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4209
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4210
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4211
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4212
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4213
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4214
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4215
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4216
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4217
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4218
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4219
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4220
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4221
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4222
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4223
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4224
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4225
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4226
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4227
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4228
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4229
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4230
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4231
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4232
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4233
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4234
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4235
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4236
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4237
+[main] INFO ga.Driver - 71.0
+[main] INFO ga.Driver - Generation :4238
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4239
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4240
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4241
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4242
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4243
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4244
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4245
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4246
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4247
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4248
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4249
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4250
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4251
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4252
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4253
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4254
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4255
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4256
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4257
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4258
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4259
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4260
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4261
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4262
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4263
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4264
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4265
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4266
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4267
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4268
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4269
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4270
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4271
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4272
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4273
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4274
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4275
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4276
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4277
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4278
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4279
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4280
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4281
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4282
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4283
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4284
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4285
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4286
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4287
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4288
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4289
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4290
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4291
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4292
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4293
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4294
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4295
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4296
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4297
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4298
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4299
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4300
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4301
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4302
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4303
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4304
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4305
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4306
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4307
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4308
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4309
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4310
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4311
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4312
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4313
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4314
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4315
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4316
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4317
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4318
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4319
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4320
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4321
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4322
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4323
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4324
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4325
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4326
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4327
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4328
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4329
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4330
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4331
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4332
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4333
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4334
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4335
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4336
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4337
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4338
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4339
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4340
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4341
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4342
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4343
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4344
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4345
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4346
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4347
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4348
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4349
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4350
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4351
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4352
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4353
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4354
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4355
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4356
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4357
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4358
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4359
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4360
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4361
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4362
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4363
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4364
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4365
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4366
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4367
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4368
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4369
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4370
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4371
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4372
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4373
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4374
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4375
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4376
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4377
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4378
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4379
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4380
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4381
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4382
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4383
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4384
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4385
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4386
+[main] INFO ga.Driver - 70.0
+[main] INFO ga.Driver - Generation :4387
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4388
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4389
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4390
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4391
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4392
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4393
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4394
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4395
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4396
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4397
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4398
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4399
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4400
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4401
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4402
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4403
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4404
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4405
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4406
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4407
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4408
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4409
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4410
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4411
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4412
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4413
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4414
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4415
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4416
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4417
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4418
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4419
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4420
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4421
+[main] INFO ga.Driver - 69.0
+[main] INFO ga.Driver - Generation :4422
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4423
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4424
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4425
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4426
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4427
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4428
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4429
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4430
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4431
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4432
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4433
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4434
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4435
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4436
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4437
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4438
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4439
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4440
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4441
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4442
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4443
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4444
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4445
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4446
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4447
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4448
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4449
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4450
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4451
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4452
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4453
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4454
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4455
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4456
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4457
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4458
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4459
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4460
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4461
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4462
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4463
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4464
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4465
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4466
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4467
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4468
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4469
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4470
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4471
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4472
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4473
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4474
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4475
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4476
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4477
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4478
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4479
+[main] INFO ga.Driver - 68.0
+[main] INFO ga.Driver - Generation :4480
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4481
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4482
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4483
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4484
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4485
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4486
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4487
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4488
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4489
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4490
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4491
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4492
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4493
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4494
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4495
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4496
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4497
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4498
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4499
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4500
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4501
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4502
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4503
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4504
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4505
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4506
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4507
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4508
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4509
+[main] INFO ga.Driver - 67.0
+[main] INFO ga.Driver - Generation :4510
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4511
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4512
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4513
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4514
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4515
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4516
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4517
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4518
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4519
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4520
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4521
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4522
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4523
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4524
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4525
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4526
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4527
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4528
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4529
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4530
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4531
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4532
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4533
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4534
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4535
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4536
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4537
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4538
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4539
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4540
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4541
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4542
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4543
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4544
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4545
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4546
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4547
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4548
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4549
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4550
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4551
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4552
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4553
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4554
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4555
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4556
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4557
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4558
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4559
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4560
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4561
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4562
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4563
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4564
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4565
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4566
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4567
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4568
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4569
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4570
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4571
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4572
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4573
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4574
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4575
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4576
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4577
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4578
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4579
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4580
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4581
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4582
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4583
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4584
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4585
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4586
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4587
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4588
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4589
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4590
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4591
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4592
+[main] INFO ga.Driver - 66.0
+[main] INFO ga.Driver - Generation :4593
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4594
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4595
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4596
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4597
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4598
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4599
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4600
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4601
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4602
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4603
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4604
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4605
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4606
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4607
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4608
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4609
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4610
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4611
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4612
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4613
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4614
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4615
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4616
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4617
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4618
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4619
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4620
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4621
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4622
+[main] INFO ga.Driver - 65.0
+[main] INFO ga.Driver - Generation :4623
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4624
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4625
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4626
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4627
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4628
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4629
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4630
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4631
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4632
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4633
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4634
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4635
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4636
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4637
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4638
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4639
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4640
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4641
+[main] INFO ga.Driver - 64.0
+[main] INFO ga.Driver - Generation :4642
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4643
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4644
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4645
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4646
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4647
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4648
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4649
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4650
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4651
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4652
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4653
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4654
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4655
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4656
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4657
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4658
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4659
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4660
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4661
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4662
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4663
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4664
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4665
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4666
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4667
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4668
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4669
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4670
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4671
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4672
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4673
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4674
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4675
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4676
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4677
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4678
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4679
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4680
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4681
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4682
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4683
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4684
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4685
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4686
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4687
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4688
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4689
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4690
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4691
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4692
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4693
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4694
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4695
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4696
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4697
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4698
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4699
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4700
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4701
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4702
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4703
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4704
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4705
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4706
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4707
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4708
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4709
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4710
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4711
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4712
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4713
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4714
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4715
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4716
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4717
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4718
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4719
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4720
+[main] INFO ga.Driver - 63.0
+[main] INFO ga.Driver - Generation :4721
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4722
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4723
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4724
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4725
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4726
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4727
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4728
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4729
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4730
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4731
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4732
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4733
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4734
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4735
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4736
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4737
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4738
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4739
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4740
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4741
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4742
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4743
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4744
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4745
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4746
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4747
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4748
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4749
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4750
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4751
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4752
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4753
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4754
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4755
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4756
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4757
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4758
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4759
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4760
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4761
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4762
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4763
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4764
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4765
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4766
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4767
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4768
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4769
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4770
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4771
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4772
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4773
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4774
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4775
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4776
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4777
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4778
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4779
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4780
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4781
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4782
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4783
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4784
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4785
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4786
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4787
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4788
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4789
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4790
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4791
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4792
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4793
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4794
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4795
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4796
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4797
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4798
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4799
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4800
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4801
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4802
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4803
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4804
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4805
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4806
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4807
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4808
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4809
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4810
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4811
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4812
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4813
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4814
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4815
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4816
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4817
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4818
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4819
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4820
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4821
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4822
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4823
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4824
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4825
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4826
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4827
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4828
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4829
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4830
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4831
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4832
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4833
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4834
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4835
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4836
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4837
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4838
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4839
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4840
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4841
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4842
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4843
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4844
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4845
+[main] INFO ga.Driver - 62.0
+[main] INFO ga.Driver - Generation :4846
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4847
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4848
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4849
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4850
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4851
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4852
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4853
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4854
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4855
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4856
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4857
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4858
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4859
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4860
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4861
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4862
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4863
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4864
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4865
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4866
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4867
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4868
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4869
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4870
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4871
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4872
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4873
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4874
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4875
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4876
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4877
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4878
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4879
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4880
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4881
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4882
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4883
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4884
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4885
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4886
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4887
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4888
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4889
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4890
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4891
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4892
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4893
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4894
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4895
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4896
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4897
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4898
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4899
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4900
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4901
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4902
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4903
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4904
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4905
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4906
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4907
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4908
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4909
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4910
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4911
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4912
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4913
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4914
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4915
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4916
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4917
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4918
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4919
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4920
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4921
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4922
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4923
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4924
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4925
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4926
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4927
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4928
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4929
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4930
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4931
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4932
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4933
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4934
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4935
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4936
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4937
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4938
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4939
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4940
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4941
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4942
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4943
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4944
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4945
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4946
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4947
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4948
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4949
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4950
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4951
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4952
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4953
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4954
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4955
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4956
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4957
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4958
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4959
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4960
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4961
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4962
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4963
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4964
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4965
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4966
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4967
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4968
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4969
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4970
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4971
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4972
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4973
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4974
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4975
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4976
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4977
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4978
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4979
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4980
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4981
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4982
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4983
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4984
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4985
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4986
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4987
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4988
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4989
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4990
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4991
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4992
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4993
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4994
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4995
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4996
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4997
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4998
+[main] INFO ga.Driver - 61.0
+[main] INFO ga.Driver - Generation :4999
+[main] INFO ga.Driver - 61.0
