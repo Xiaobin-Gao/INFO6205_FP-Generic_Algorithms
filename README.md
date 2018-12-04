@@ -1,10 +1,10 @@
 # INFO6205_221
 ## Final Project Introduction
 ### Topic: Genetic Algorithms For Image
-  Give a picture with color white and black and return a picture that look like the orignal one.
+  Give a picture with color white and black and return a picture that looks like the orignal one.
 ### Implement
-*  Search the whole picture and get the black points to be the target.  
-*  To make it simple, we just compress the picture and get less point for excuting quicker.  
+*  Search all pixels of the input picture and get the location information of all black points to be as the target.  
+*  For memory and time saving consideration, we compress the picture and get fewer pixels for excuting quicker.  
 *  Generate 1000 random set of points as first generation.  
 *  Calculate the total distance between one set and target points.  
 *  Use 1/distance as fitness of one individual. Sum all the adaptance and calculate the rate for the individual in the generation.  
