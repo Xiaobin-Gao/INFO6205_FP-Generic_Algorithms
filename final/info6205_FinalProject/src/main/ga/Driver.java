@@ -52,12 +52,13 @@ public class Driver {
 			gen = null;
 			gen = new Generation(child,ps);
 			child = null;
+			Point[] p = gen.max();
 			if(i%99==0) {
-				String fileN = "resource/gen"+i+".png";
-				Point[] p = gen.max();
-				new Thread((()->ri.writeImage(p, fileN))).start();
-				log.info(Fitness.calDis(ps, p));
+				String fileN = "resource/gen"+i+".png";				
+				new Thread((()->ri.writeImage(p, fileN))).start();				
 			}
+			log.info("Generation :"+i);
+			log.info(Fitness.calDis(ps, p));
 		}
 		System.out.println(Fitness.calDis(ps, gen.max()));
 		System.out.println(gen.getPopulation().length);
