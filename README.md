@@ -1,6 +1,7 @@
 # INFO6205_221
 ## Final Project Introduction
 ### Topic: Genetic Algorithms For Image
+---
   Give a picture with color white and black and return a picture that look like the orignal one.
 ---
 ###Implement
