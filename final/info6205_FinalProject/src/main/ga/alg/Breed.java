@@ -61,20 +61,14 @@ public class Breed {
 			int mo = Selection.selectId(props);
 			
 			Future<byte[][]> fu = exector.submit(new CallableTest(geno[fa], geno[mo], mut, th));
-//			nextGeneration[i] = fu.get();
-			
-//			nextGeneration[i] = cross(geno[fa],geno[mo],mut,th);
 			
 			i++;
 			if (i >= sizeOfPop) {
 				ls.add(fu);
 				break;
 			}
-			Future<byte[][]> fu2 = exector.submit(new CallableTest(geno[fa], geno[mo], mut, th));
-//			nextGeneration[i] = fu2.get();
+			Future<byte[][]> fu2 = exector.submit(new CallableTest(geno[fa], geno[mo], mut, th));						
 			
-//			nextGeneration[i] = cross(geno[fa],geno[mo],mut,th);
-						
 			i++;
 			ls.add(fu);
 			ls.add(fu2);
