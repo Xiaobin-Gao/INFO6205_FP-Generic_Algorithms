@@ -21,6 +21,9 @@ public class Driver {
 			Readimage ri = new Readimage(5);
 			Point[] ps = ri.getImagePixelToArray("resource/target.png");
 			ri.writeImage(ps, "resource/compress.png");
+			log.info("Points number : "+ps.length);
+			log.info("Width is : "+ri.getWidth());
+			log.info("Height is : "+ri.getHeight());
 			ga(ps, ri);
 			
 		} catch (Exception e) {

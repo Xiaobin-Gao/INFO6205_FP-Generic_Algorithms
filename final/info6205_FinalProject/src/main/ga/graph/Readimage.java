@@ -56,7 +56,6 @@ public class Readimage {
 				}
 			}
 		}
-		System.out.println(index + "\t" + ps[1].getY());
 		Point[] point = new Point[index];
 		System.arraycopy(ps, 0, point, 0, index);
 		System.out.println("width=" + width + ",height=" + height + ".");
