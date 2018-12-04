@@ -58,7 +58,7 @@ public class Driver {
 				new Thread((()->ri.writeImage(p, fileN))).start();				
 			}
 			log.info("Generation :"+i);
-			log.info(Fitness.calDis(ps, p));
+			log.info("Distance to target is :"+Fitness.calDis(ps, p));
 		}
 		log.info("Last Population: "+gen.getPopulation().length);
 		System.out.println(Fitness.calDis(ps, gen.max()));
