@@ -27,6 +27,7 @@ public class Driver {
 			ga(ps, ri);
 			
 		} catch (Exception e) {
+			log.error(e);
 			e.printStackTrace();
 		}
 		long end = System.currentTimeMillis();
