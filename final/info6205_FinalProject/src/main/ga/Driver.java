@@ -60,6 +60,7 @@ public class Driver {
 			log.info("Generation :"+i);
 			log.info(Fitness.calDis(ps, p));
 		}
+		log.info("Last Population: "+gen.getPopulation().length);
 		System.out.println(Fitness.calDis(ps, gen.max()));
 		System.out.println(gen.getPopulation().length);
 		ri.writeImage(gen.max(), "resource/result.png");
