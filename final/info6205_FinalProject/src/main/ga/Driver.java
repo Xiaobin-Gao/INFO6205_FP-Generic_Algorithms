@@ -37,6 +37,7 @@ public class Driver {
 	}
 	/**
 	 * GA main function
+	 * log for each generation and output picture each 100 generation
 	 * @param ps
 	 * @param ri
 	 * @throws Exception
