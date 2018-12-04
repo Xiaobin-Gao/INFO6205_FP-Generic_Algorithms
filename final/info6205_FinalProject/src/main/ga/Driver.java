@@ -3,15 +3,20 @@ package ga;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+
 import ga.graph.*;
 import ga.alg.*;
 import ga.gene.*;
 
 
 public class Driver {
-
+	private static Logger log = Logger.getLogger(Driver.class);
 	public static void main(String[] args) {
 		long start = System.currentTimeMillis();
+		PropertyConfigurator.configure("resource/Log/log4j.properties");
+		
 		try {
 			Readimage ri = new Readimage(5);
 			Point[] ps = ri.getImagePixelToArray("resource/target.png");
