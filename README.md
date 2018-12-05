@@ -18,7 +18,7 @@
 ## picture
 ![picture](final/info6205_FinalProject/resource/target.png) . 
 
-compress/first generation/result . 
+Target picture after compress / the first generation picture / the result picture. 
 
 ![picture](final/info6205_FinalProject/resource/compress.png) . 
 ![picture](final/info6205_FinalProject/resource/gen0.png) . 
