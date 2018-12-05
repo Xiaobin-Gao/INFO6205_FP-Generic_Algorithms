@@ -1,6 +1,6 @@
 # INFO6205_221
 ## Final Project Introduction
-### Topic: Genetic Algorithms For Black - White Image
+### Topic: Genetic Algorithms For Black-and-White Image
   Give a black-and-white picture and return a picture that looks like the orignal one.
 ### Implement
 * Search all pixels of an input image and save all black dots’ location information as the target.  
