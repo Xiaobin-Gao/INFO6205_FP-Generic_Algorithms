@@ -16,6 +16,7 @@
 * If the average weight of the fitness is very close to the best weight of the fitness, we make a big mutation for each individual.  
 * Repeat all these steps for 5000 times.  
 * Get the result and draw the image every 100 generations, log for each generation.  
-![picture](final/info6205_FinalProject/resource/target.png)
+![picture](final/info6205_FinalProject/resource/target.png) . 
+![picture](final/info6205_FinalProject/resource/gen0.png)
 ![picture](final/info6205_FinalProject/resource/compress.png)
 ![picture](final/info6205_FinalProject/resource/result.png)
