@@ -16,8 +16,8 @@
 * Repeat all these steps for 5000 times.  
 * Get the result and draw the image every 100 generations, log for each generation.  
 ## Report
-[Report](Report_221.pdf)
-## Picture
+[Report is here](Report_221.pdf)
+## Picture Result
 ![picture](final/info6205_FinalProject/resource/target.png) . 
 
 Target picture after compress / First generation picture / Result picture. 
