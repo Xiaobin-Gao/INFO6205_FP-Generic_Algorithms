@@ -1,8 +1,7 @@
-# INFO6205_221
-## Final Project Introduction
-### Topic: Genetic Algorithms For Black-and-White Image
+# Team INFO6205_221 Final Project Introduction
+## Topic: Genetic Algorithms For Black-and-White Image
   Give a black-and-white picture and return a picture that looks like the orignal one.
-### Implement
+## Implement
 * Search all pixels of an input image and save all black dots’ location information as the target.  
 * For saving memory and time, we compress the picture into a smaller one.  
 * To initialize population for the first generation, we randomly generated 1000 points to set as individuals.  
@@ -16,7 +15,7 @@
 * If the average weight of the fitness is very close to the best weight of the fitness, we make a big mutation for each individual.  
 * Repeat all these steps for 5000 times.  
 * Get the result and draw the image every 100 generations, log for each generation.  
-### picture
+## picture
 ![picture](final/info6205_FinalProject/resource/target.png) . 
 
 compress/first generation/result . 
