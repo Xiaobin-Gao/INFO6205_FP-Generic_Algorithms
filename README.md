@@ -3,15 +3,16 @@
 ### Topic: Genetic Algorithms For Image
   Give a black-and-white picture and return a picture that looks like the orignal one.
 ### Implement
-*  Search all pixels of an input picture and save all black points' location information as the target.  
-*  For memory and time saving consideration, we compress the picture to get a smaller target.  
-*  To initialize population for the first generation, 1000 point sets are randomly produced as individuals.  
-*  To calculate an individual's fitness, use 1/distance, where distance means the totoal distance of all points in the individual to its corresponding points in the target.
-*  Sum all individuals' fitness as population's total fitness and then calculate the weight of every individual' fitness relative to that total fitness value.  
-*  Survive half of the population to the next generation.  
-*  Use the fitness weight value to select two best individuals and then select better one as father. Repeat the same process to select mother.  
-*  To convert phenotype to genetype, convert every point in an individual to an 8-byte array; To convert genetype to phenotype, convert every 8-byte array in an individual to a point.
-*  Crossover two genes and mutation are in the process.  
-*  Generate the next genration and their gene.
-*  repeat all these steps about 1000 times.
-*  Get the result and draw an picture every 100 generations, log for each generation.
+* Search all pixels of an input image and save all black dots’ location information as the target.  
+* For saving memory and time, we compress the picture into a smaller one.  
+* To initialize population for the first generation, we randomly generated 1000 points to set as individuals.  
+* Then calculate the total distances of every points in an individual to the target.  
+* Use multiplication of inverse for the distance to calculate the fitness, then sum all individuals’ fitness as all . 
+* individuals’s total fitness in a generation and then calculate the weight of every individual’s fitness relative to the total fitness value.
+* We make 50% possibility for the survival.  
+* Use the fitness weighted value to select two individuals and then select the individual with better fitness as father, as well as for the mother. One pair of father and mother will generation 2 childs.  
+* Crossover two genes and we have a probability for them to mutate. Use multi-thread for faster speed.  
+* Generate the next generation and their genes. The next generation will have a 1% possibly to reduce one individual for the protecting of diversity.  
+* If the average weight of the fitness is very close to the best weight of the fitness, we make a big mutation for each individual.  
+* Repeat all these steps for 5000 times.  
+* Get the result and draw the image every 100 generations, log for each generation.  
