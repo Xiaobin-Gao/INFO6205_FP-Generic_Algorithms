@@ -6,7 +6,7 @@ import org.junit.Test;
 
 import ga.gene.Point;
 
-class FitnessTest {
+public class FitnessTest {
 
 
 	@Test

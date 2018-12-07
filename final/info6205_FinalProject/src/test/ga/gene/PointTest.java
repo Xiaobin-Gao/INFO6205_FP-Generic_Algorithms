@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-class PointTest {
+public class PointTest {
 	
 	@Test
 	public void testToByteAndToPoint0() {

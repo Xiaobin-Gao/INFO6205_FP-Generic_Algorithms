@@ -6,10 +6,10 @@ import ga.gene.Point;
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
-class RankTest {
+public class RankTest {
 
 	@Test
-	void testRank() throws Exception {
+	public void testRank() throws Exception {
 
 		double a = 1;
 		double b = 2;
@@ -25,7 +25,7 @@ class RankTest {
 	}
 	
 	@Test
-	void testExecute() throws Exception {
+	public void testExecute() throws Exception {
 		
 		Point[] p1list = {new Point(7,8), new Point(9,10)};
 		Point[][] p2list = {{new Point(1,2), new Point(3,4)}, {new Point(5,6), new Point(7,8)}};
