@@ -15,6 +15,8 @@
 * If the average weight of the fitness is very close to the best weight of the fitness, we make a big mutation for each individual.  
 * Repeat all these steps for 5000 times.  
 * Get the result and draw the image every 100 generations, log for each generation.  
+## Run
+Please run the Driver.class in main.ga package
 ## Report
 [Report is here](Report_221.pdf)
 ## Picture Result
