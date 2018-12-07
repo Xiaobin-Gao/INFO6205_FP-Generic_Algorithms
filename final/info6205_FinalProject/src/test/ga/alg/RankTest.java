@@ -1,12 +1,11 @@
 package ga.alg;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-import org.junit.jupiter.api.Test;
 
 import ga.gene.Point;
 
 import static org.junit.Assert.assertEquals;
+
+import org.junit.Test;
 class RankTest {
 
 	@Test
