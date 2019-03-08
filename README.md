@@ -28,7 +28,7 @@ Input image after compress / the best image in the first generation / the best i
 ![picture](final/info6205_FinalProject/resource/gen0.png) . 
 ![picture](final/info6205_FinalProject/resource/result.png)     
 
-Changing Process
+Image evolution process
 
 ![picture](final/info6205_FinalProject/resource/gen0.png) . 
 ![picture](final/info6205_FinalProject/resource/gen99.png) . 
