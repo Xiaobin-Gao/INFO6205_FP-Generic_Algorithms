@@ -22,7 +22,7 @@ Please run the Driver.class in main.ga package
 ## Picture Result
 ![picture](final/info6205_FinalProject/resource/target.png) . 
 
-Input image after compress / First generation picture / Result picture. 
+Input image after compress / the best image in the first generation / Result picture. 
 
 ![picture](final/info6205_FinalProject/resource/compress.png) . 
 ![picture](final/info6205_FinalProject/resource/gen0.png) . 
