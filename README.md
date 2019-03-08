@@ -1,6 +1,6 @@
 # Team INFO6205_221 Final Project Introduction
-## Topic: Genetic Algorithms For Black-and-White Image
-  Give a black-and-white picture as input and return a picture that looks like the orignal one.
+## Topic: Genetic Algorithms For Image Evolution
+  Apply and Implement Genetic Algorithms to generate images from thousands of randomly generated black dots.
 ## Implement
 * Search all pixels of an input image and save all black dots’ location information as the target.  
 * For saving memory and time, we compress the picture into a smaller one.  
@@ -22,7 +22,7 @@ Please run the Driver.class in main.ga package
 ## Picture Result
 ![picture](final/info6205_FinalProject/resource/target.png) . 
 
-Target picture after compress / First generation picture / Result picture. 
+Input image after compress / First generation picture / Result picture. 
 
 ![picture](final/info6205_FinalProject/resource/compress.png) . 
 ![picture](final/info6205_FinalProject/resource/gen0.png) . 
