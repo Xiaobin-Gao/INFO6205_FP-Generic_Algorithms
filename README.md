@@ -1,4 +1,7 @@
 # Team INFO6205_221 Final Project Introduction
+
+<i><b>- Team Project</i></b>
+
 ## Topic: Genetic Algorithms For Image Evolution
   Apply and Implement Genetic Algorithms to generate images from thousands of randomly generated black dots.
 ## Implement
